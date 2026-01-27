@@ -1,0 +1,28 @@
+# Lab 02 – Detección de ataque de fuerza bruta
+
+## 🎯 Objetivo
+Detectar un ataque de fuerza bruta mediante análisis de logs.
+
+## 🧠 Descripción
+Investigación de intentos de autenticación fallidos.
+
+## 🧪 Ejemplo práctico completo
+
+### Logs analizados
+
+Jan 25 10:14:01 sshd: Failed password for admin from 192.168.1.45
+Jan 25 10:14:10 sshd: Failed password for admin from 192.168.1.45
+Jan 25 10:14:18 sshd: Failed password for admin from 192.168.1.45
+Jan 25 10:14:27 sshd: Failed password for admin from 192.168.1.45
+
+
+### Análisis SOC L1
+- Repetición del evento
+- Misma IP y usuario
+- Patrón compatible con fuerza bruta
+
+### Conclusión
+Ataque de fuerza bruta detectado.
+
+## 🧪 Flujo SOC
+Detección → Investigación → Documentación → Escalado
