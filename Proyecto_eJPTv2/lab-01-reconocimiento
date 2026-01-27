@@ -1,0 +1,34 @@
+# Lab 01 — Reconocimiento y Escaneo 
+
+## Objetivo
+Realizar un reconocimiento completo del objetivo para identificar hosts, puertos y servicios.
+
+## Herramientas usadas
+- nmap
+- whois
+- dig
+- subfinder
+- amass
+
+## Pasos realizados
+1. Reconocimiento OSINT:
+   - `whois target.com`
+   - `dig target.com`
+   - `subfinder -d target.com`
+
+2. Escaneo de red:
+   - `nmap -sn 10.10.10.0/24`
+
+3. Escaneo de puertos:
+   - `nmap -sC -sV -p- targetIP`
+
+## Resultados
+- Host activo: `10.10.10.10`
+- Puertos abiertos:
+  - 22/tcp (SSH)
+  - 80/tcp (HTTP)
+  - 443/tcp (HTTPS)
+
+## Conclusión
+Se identificó un servidor con puertos 80/443 y SSH.  
+Siguiente paso: enumeración web y pruebas de explotación.
