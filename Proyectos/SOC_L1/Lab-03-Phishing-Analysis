@@ -1,0 +1,31 @@
+# Lab 03 – Análisis básico de phishing
+
+## 🎯 Objetivo
+Identificar un correo de phishing.
+
+## 🧠 Descripción
+Análisis de un email sospechoso reportado por un usuario.
+
+## 🧪 Ejemplo práctico completo
+
+### Correo analizado
+
+From: soporte@micros0ft-security.com
+
+Subject: Account suspended immediately
+
+Your account has been suspended.
+Click the link below to restore access:
+http://micros0ft-login-secure[.]com
+
+
+### Análisis SOC L1
+- Dominio falsificado (micros0ft)
+- Mensaje urgente
+- Enlace sospechoso
+
+### Conclusión
+Correo clasificado como phishing.
+
+## 🧪 Flujo SOC
+Detección → Investigación → Clasificación
