@@ -1,0 +1,32 @@
+# Lab 02 — Enumeración Web 
+
+## Objetivo
+Encontrar directorios ocultos, ficheros sensibles y puntos de acceso.
+
+## Herramientas usadas
+- gobuster
+- dirb
+- nikto
+- curl
+
+## Pasos realizados
+1. Fuerza bruta de directorios:
+   - `gobuster dir -u http://10.10.10.10 -w /usr/share/wordlists/dirb/common.txt`
+
+2. Escaneo de vulnerabilidades:
+   - `nikto -h http://10.10.10.10`
+
+3. Enumeración de ficheros:
+   - `curl -I http://10.10.10.10/admin`
+
+## Resultados
+- Directorios encontrados:
+  - /admin
+  - /uploads
+
+- Fichero sensible:
+  - /backup.zip
+
+## Conclusión
+Se detectaron directorios y ficheros potencialmente vulnerables.  
+Siguiente paso: descarga de ficheros y prueba de subida.
