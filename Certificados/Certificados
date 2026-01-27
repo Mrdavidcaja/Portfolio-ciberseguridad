@@ -1,12 +1,104 @@
 # Certificados
 
-- eJPTv2 — Junior Penetration Tester
-- Fortinet Certified Fundamentals in Cybersecurity
-- Intro to Splunk (eLearning)
-- Microsoft Cybersecurity Fundamentals
-- Google Cybersecurity Fundamentals
-- Cisco IT Essentials
-- Cisco Introducción a la Ciberseguridad
-- Artificial Intelligence Fundamentals with Capstone Project
-- Palo Alto Networks Academy Security Operations Fundamentals
-- Palo Alto Networks Academy: Network Security Fundamentals
+# eJPTv2 — Junior Penetration Tester
+
+## 📌 Qué se aprende
+- Metodología de pentesting (reconocimiento, enumeración, explotación, post-explotación)
+- Escaneo de red y descubrimiento de hosts (Nmap)
+- Enumeración de servicios y vulnerabilidades
+- Explotación básica de servicios vulnerables
+- Técnicas de escalada de privilegios
+- Uso de herramientas básicas (Netcat, Nmap, Metasploit, etc.)
+- Reporte y documentación de hallazgos
+
+
+# Fortinet Certified Fundamentals in Cybersecurity
+
+## 📌 Qué se aprende
+- Fundamentos de ciberseguridad y mejores prácticas
+- Conceptos de seguridad de red (firewalls, VPN, segmentación)
+- Conceptos de seguridad en endpoints
+- Gestión de amenazas y defensa
+- Seguridad en la nube (introducción)
+- Políticas de seguridad y control de acceso
+
+# Intro to Splunk (eLearning)
+
+## 📌 Qué se aprende
+- Introducción a Splunk y su interfaz
+- Ingesta de datos y creación de índices
+- Búsqueda básica con SPL (Search Processing Language)
+- Creación de dashboards y visualizaciones
+- Monitoreo de logs y detección de incidentes
+- Análisis básico de eventos de seguridad
+
+# Microsoft Cybersecurity Fundamentals
+
+## 📌 Qué se aprende
+- Fundamentos de ciberseguridad (confidencialidad, integridad, disponibilidad)
+- Gestión de identidad y acceso (IAM)
+- Seguridad en redes y dispositivos
+- Fundamentos de criptografía
+- Gestión de riesgos y cumplimiento
+- Introducción a seguridad en Microsoft 365 y Azure
+
+# Google Cybersecurity Fundamentals
+
+## 📌 Qué se aprende
+- Fundamentos de ciberseguridad y amenazas comunes
+- Conceptos de defensa en profundidad
+- Seguridad en redes y sistemas
+- Gestión de identidades y acceso
+- Seguridad en la nube (Google Cloud)
+- Respuesta a incidentes y gestión de riesgos
+
+# Cisco IT Essentials
+
+## 📌 Qué se aprende
+- Conceptos básicos de hardware y software
+- Instalación y configuración de sistemas operativos
+- Componentes de PC (CPU, RAM, almacenamiento, PSU, etc.)
+- Redes básicas (TCP/IP, DNS, DHCP)
+- Resolución de problemas de hardware y software
+- Mantenimiento y seguridad básica
+
+# Cisco Introducción a la Ciberseguridad
+
+## 📌 Qué se aprende
+- Conceptos básicos de ciberseguridad
+- Amenazas y vulnerabilidades comunes
+- Principios de seguridad en redes
+- Fundamentos de cifrado y autenticación
+- Introducción a firewalls, VPNs y seguridad en endpoints
+- Buenas prácticas de seguridad
+
+# Artificial Intelligence Fundamentals with Capstone Project
+
+## 📌 Qué se aprende
+- Fundamentos de inteligencia artificial y machine learning
+- Tipos de aprendizaje (supervisado, no supervisado, reforzado)
+- Preprocesamiento de datos
+- Modelos básicos de ML (regresión, clasificación)
+- Evaluación de modelos y métricas
+- Proyecto final integrando los conocimientos aprendidos
+
+# Palo Alto Networks Academy – Security Operations Fundamentals
+
+## 📌 Qué se aprende
+- Fundamentos de operaciones de seguridad (SOC)
+- Proceso de detección, respuesta e investigación de incidentes
+- Gestión de alertas y priorización
+- Uso de herramientas de monitoreo y análisis
+- Conceptos de Threat Intelligence
+- Mejores prácticas en operaciones SOC
+
+# Palo Alto Networks Academy – Network Security Fundamentals
+
+## 📌 Qué se aprende
+- Fundamentos de seguridad de red
+- Arquitectura de firewalls y control de tráfico
+- Segmentación y políticas de seguridad
+- Conceptos de VPN y conectividad segura
+- Introducción a prevención de intrusiones (IPS)
+- Buenas prácticas para proteger redes corporativas
+
