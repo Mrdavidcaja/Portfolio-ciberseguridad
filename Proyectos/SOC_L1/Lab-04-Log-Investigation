@@ -1,0 +1,27 @@
+# Lab 04 – Investigación de logs de seguridad
+
+## 🎯 Objetivo
+Investigar un incidente mediante logs.
+
+## 🧠 Descripción
+Análisis de eventos de seguridad para entender el incidente.
+
+## 🧪 Ejemplo práctico completo
+
+### Logs correlacionados
+
+09:58 - Failed login - user: admin - IP: 192.168.1.45
+10:01 - Failed login - user: admin - IP: 192.168.1.45
+10:04 - Successful login - user: admin - IP: 192.168.1.45
+
+
+### Análisis SOC L1
+- Intentos fallidos previos
+- Login exitoso posterior
+- Riesgo de compromiso de cuenta
+
+### Conclusión
+Posible acceso no autorizado. Escalado recomendado.
+
+## 🧪 Flujo SOC
+Detección → Investigación → Documentación
