@@ -1,1 +1,31 @@
+# Lab 01 – Monitorización de alertas en un SOC
+
+## 🎯 Objetivo
+Simular la monitorización diaria de alertas en un SOC Level 1.
+
+## 🧠 Descripción
+Revisión de alertas generadas por el SIEM para identificar posibles incidentes.
+
+## 🧪 Ejemplo práctico completo
+
+### Alerta detectada
+
+Alert Name: Multiple Failed Login Attempts
+Severity: Medium
+User: admin
+Source IP: 192.168.1.45
+Attempts: 7
+Time window: 2 minutes
+
+
+### Análisis SOC L1
+- Número elevado de intentos fallidos
+- Misma IP y mismo usuario
+- Intervalo de tiempo corto
+
+### Decisión
+Alerta válida → se inicia investigación.
+
+## 🧪 Flujo SOC
+Monitorización → Detección → Clasificación
 
