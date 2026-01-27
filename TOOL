@@ -1,0 +1,2180 @@
+###  Interesting links ###
+
+
+https://www.concise-courses.com/hacking-tools/top-ten/
+https://esgeeks.com/scripts-modulos-seguridad-powershell/
+https://www.hacking.land/2019/12/las-20-herramientas-de-hacking-m.html
+https://esgeeks.com/herramientas-enumeracion-subdominios/
+https://esgeeks.com/mejores-extensiones-chrome-para-pentesting/
+https://esgeeks.com/payload-evadir-antivirus-python/
+https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
+https://esgeeks.com/falsificar-telefono-llamadas-sms/
+https://www.hackplayers.com/2020/02/comparativa-tools-subdominios.html
+https://esgeeks.com/herramientas-pentesting-profesionales/
+https://protegermipc.net/2018/08/29/que-es-la-informatica-forense/ + (Herramientas forense)
+https://github.com/B3nac/Android-Reports-and-Resources (Hacking Android)
+https://attack.mitre.org/software/ (Tools Mitre)
+https://esgeeks.com/robar-contrasena-windows-fakelogonscreen/ (Pantalla login fake Windows)
+https://gbhackers.com/hacking-tools-list/
+https://www.redeszone.net/tutoriales/seguridad/herramientas-pentesting-redes-locales/
+https://noticiasseguridad.com/tutoriales/bibliotecas-de-python-empleadas-en-el-hacking/
+https://noticiasseguridad.com/seguridad-informatica/como-hackear-facilmente-su-smart-tv-samsung-y-lg/
+https://noticiasseguridad.com/vulnerabilidades/top-10-los-exploits-mas-utilizados-por-los-hackers-para-controlar-servidores-facilmente/
+https://esgeeks.com/hackear-facebook-con-batch-windows/
+https://www.elladodelmal.com/2020/04/hacking-windows-bitsadmin-for-pentesters.html
+https://blog.ehcgroup.io/2020/04/27/17/37/27/8598/las-herramientas-de-hacking-mas-famosas-de-2019/herramientas-de-seguridad/ehacking/
+https://www.hacking.land/2020/05/powershell-reverse-tcp-powershell.html
+https://noticiasseguridad.com/tutoriales/hackear-windows-10-utilizando-torat-herramienta-de-administrador-remoto-paso-a-paso/
+https://www.hackplayers.com/2020/05/crackear-usuario-windows-sin-privilegios.html
+https://thehackerway.com/2020/05/24/20-servicios-online-interesantes-para-red-teaming-o-pentesting/
+https://www.hackplayers.com/2020/06/backup-tosystem-abusando-de-los.html#more
+https://mundohacker.es/como-puedo-hackear-instagram-gratis/
+https://esgeeks.com/hacking-android-backdoor-apk/
+https://null-byte.wonderhowto.com/how-to/hack-wi-fi-cracking-wpa2-passwords-using-new-pmkid-hashcat-attack-0189379/
+https://www.hackbysecurity.com/blog/sql-injection
+https://noticiasseguridad.com/tutoriales/como-hackear-wifi-30-mejores-aplicaciones-de-hacking-para-android-y-iphone-en-2020/
+https://www.hackbysecurity.com/blog/extensiones
+https://null-byte.wonderhowto.com/how-to/escape-restricted-shell-environments-linux-0341685/
+https://null-byte.wonderhowto.com/how-to/analyze-web-browser-extensions-for-possible-malware-other-malicious-activity-0236335/
+https://www.hackplayers.com/2020/10/cmds-para-descargar-y-ejecutar-codigo.html
+https://www.hackplayers.com/2020/10/spybrowse-codigo-robar-navegadores.html
+https://www.hacking.land/2020/10/listado-de-herramientas-osint.html
+https://null-byte.wonderhowto.com/how-to/write-xss-cookie-stealer-javascript-steal-passwords-0180833/
+https://null-byte.wonderhowto.com/how-to/hack-like-pro-denial-service-dos-tools-techniques-0165699/
+https://null-byte.wonderhowto.com/how-to/hack-like-pro-hack-windows-vista-7-8-with-new-media-center-exploit-0164729/
+https://esgeeks.com/android-pin-bruteforce-desbloquear-telefono-fuerza-bruta/
+https://esgeeks.com/top-apps-monitorear-telefonos/
+https://null-byte.wonderhowto.com/how-to/essential-skills-becoming-master-hacker-0154509/
+https://null-byte.wonderhowto.com/how-to/hack-databases-cracking-sql-server-passwords-owning-server-0149636/
+https://www.secjuice.com/phone-numbers-investigation-the-open-source-way/
+https://top10espiasoftware.com/ --> Top 10 aplicaciones para espiar móviles
+https://esgeeks.com/guia-footprinting-de-sitios-web/
+https://www.elladodelmal.com/2020/12/depix-como-depixelar-contrasenas-que.html
+https://noticiasseguridad.com/vulnerabilidades/como-hackear-paypal-y-robar-dinero-de-los-demas-como-un-profesional/
+https://noticiasseguridad.com/seguridad-informatica/como-hackear-facilmente-su-smart-tv-samsung-y-lg/
+https://noticiasseguridad.com/tutoriales/seis-aplicaciones-de-hacking-para-android-que-todo-usuario-debe-tener/
+https://noticiasseguridad.com/tutoriales/como-hackear-las-cuentas-y-cookies-de-instagram-y-facebook-solo-con-un-click-video/
+https://noticiasseguridad.com/tutoriales/como-detectar-camaras-ocultas-en-hoteles-cajeros-automaticos-probadores-etc-usando-su-smartphone/
+https://null-byte.wonderhowto.com/how-to/hack-like-pro-finding-potential-suid-sgid-vulnerabilities-linux-unix-systems-0158373/
+https://www.hackplayers.com/2008/08/herramientas-sql-injection.html
+https://www.hackplayers.com/2019/11/taller-para-escalar-privilegios-en-windows-linux.html
+https://www.manusoft.es/windows/entrar-en-windows-sin-contrasena-como-administrador/
+https://www.hacking.land/2020/12/las-20-herramientas-de-hacking-m.html
+https://noticiasseguridad.com/importantes/como-extraer-datos-forenses-del-dispositivo-movil-de-android/
+https://noticiasseguridad.com/seguridad-informatica/como-interceptar-comunicaciones-moviles-llamadas-y-mensajes-facilmente-sin-hackear/
+https://noticiasseguridad.com/tutoriales/guia-completa-para-rastrear-aviones-de-presidentes-militares-y-aviones-de-pasajeros/
+https://www.hacking.land/2021/01/bug-en-windows-10-permite-corromper-el.html --> corromper disco c: windows 10
+https://noticiasseguridad.com/tutoriales/como-hacer-analisis-informatica-forenses-de-memoria-ram-para-recuperar-contrasenas-e-informacion-confidencial-con-mxtract/
+https://noticiasseguridad.com/tutoriales/como-hacer-una-auditoria-de-ciberseguridad-de-una-red-de-camaras-ip-tutorial-de-pentesting-de-sistemas-cctv/
+https://noticiasseguridad.com/tutoriales/como-detectar-camaras-ocultas-o-spy-cam-en-una-habitacion/
+https://github.com/ihebski/DefaultCreds-cheat-sheet/blob/main/creds --> Credenciales por defecto de algunos software
+https://null-byte.wonderhowto.com/how-to/use-redrabbit-for-pen-testing-post-exploitation-windows-machines-0294990/
+https://noticiasseguridad.com/tutoriales/hacking-etico-las-60-mejores-herramientas-de-hacking-utilizadas-por-expertos-de-ciberseguridad-2021-parte-1/
+https://noticiasseguridad.com/tutoriales/hacking-etico-las-60-mejores-herramientas-de-hacking-utilizadas-por-expertos-de-ciberseguridad-2021-parte-2/
+https://null-byte.wonderhowto.com/how-to/clear-logs-bash-history-hacked-linux-systems-cover-your-tracks-remain-undetected-0244768/
+https://null-byte.wonderhowto.com/how-to/brute-force-nearly-any-website-login-with-hatch-0192225/
+https://null-byte.wonderhowto.com/how-to/android-for-hackers-turn-android-phone-into-hacking-device-without-root-0189649/
+https://hackingpassion.com/clear-your-tracks-on-linux/
+https://noticiasseguridad.com/tutoriales/como-realizar-auditorias-de-seguridadpentesting-de-dispositivos-cisco/
+https://noticiasseguridad.com/tutoriales/proceso-paso-a-paso-para-hackear-cajeros-automaticos-usando-black-box-jackpotting-de-cajeros-automaticos/
+https://noticiasseguridad.com/tutoriales/como-omitir-las-restricciones-de-carga-de-archivos-en-aplicaciones-web-para-instalar-backdoors/
+https://noticiasseguridad.com/tutoriales/como-disfrazar-un-malware-como-txt-jpeg-o-cualquier-formato-de-archivo-en-6-sencillos-pasos/
+https://www.flu-project.com/2021/05/obteniendo-informacion-de-direcciones.html
+https://noticiasseguridad.com/tutoriales/las-10-principales-utilidades-para-que-su-servidor-linux-detecte-intentos-de-hacking-y-supervise-las-actividades/
+https://noticiasseguridad.com/tutoriales/las-15-mejores-herramientas-para-realizar-analisis-de-vulnerabilidades-internas-y-hackear-redes-corporativas/
+https://null-byte.wonderhowto.com/how-to/fingerprint-web-apps-servers-for-better-recon-more-successful-hacks-0302807/
+https://null-byte.wonderhowto.com/how-to/find-identifying-information-from-phone-number-using-osint-tools-0195472/
+https://pentestbook.six2dez.com/ --> Best hacking tools by Alexis Fernandez (six2dez)
+https://ciberpatrulla.com/buscar-persona-nombre-apellidos/
+https://gbhackers.com/hacking-tools-list/
+https://cybersecuritynews.com/active-directory-checklist/
+https://www.blackhatethicalhacking.com/tools/
+https://guglia001.github.io/articulos/ad/htb/active-directory/
+https://hakin9.org/fsociety-hacking-tools-pack-a-penetration-testing-framework/
+https://start.me/p/ek4rxK/cryptocurrency-osint
+https://github.com/user1342/DroidDetective
+https://reconshell.com/redteam-toolkit/
+https://reconshell.com/red-teaming-reconnaissance-process/
+https://reconshell.com/online-tools-for-osint/
+https://www.blockint.nl/the-osint-library/
+https://3xploit666.medium.com/insector-43cab1487012
+https://www.bellingcat.com/resources/2021/11/09/first-steps-to-getting-started-in-open-source-research/
+https://osint.link/
+https://reconshell.com/awesome-osint/
+https://www.helpnetsecurity.com/2022/09/13/5-kali-linux-books/
+https://www.welivesecurity.com/la-es/2021/04/19/metodos-detectar-documento-office-malware/
+https://medium.com/@rezaduty/mobile-penetration-tester-roadmap-f2ec9bd68dcf
+https://derechodelared.com/investigando-url-maliciosa/
+https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/
+https://oscp.infosecsanyam.in/
+https://github.com/gh0x0st/Buffer_Overflow
+https://infosecsanyam261.gitbook.io/tryharder/buffer-overflow
+https://blog.own.sh/introduction-to-network-protocol-fuzzing-buffer-overflow-exploitation/
+https://veteransec.com/2018/09/10/32-bit-windows-buffer-overflows-made-easy/
+https://vulp3cula.gitbook.io/hackers-grimoire/exploitation/buffer-overflow
+https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
+https://eazeysec.com/BOF-Method/
+http://www.primalsecurity.net/tutorials/exploit-tutorials/
+http://www.fuzzysecurity.com/tutorials.html
+https://strongcourage.github.io/2020/04/19/bof.html
+https://cybersecuritynews.com/scan-linux-servers/
+https://www.myheritage.nl/photo-enhancer --> Mejora calidad fotos (OSINT)
+https://cybersecuritynews.com/web-application-pentesting-tools/
+https://hackerinthehouse.in/bypass-antivirus-windows-11/
+https://thehackerway.com/2022/11/30/10-herramientas-esenciales-para-pentesting-web-parte-1-de-2/
+https://thehackerway.com/2022/12/07/10-herramientas-esenciales-para-pentesting-web-parte-2-de-2/
+https://www.hacking.land/2020/10/awesome-android-security-curated-list.html
+https://www.hacking.land/2017/03/herramientas-para-analizar-apk-app.html
+https://thehackerway.com/2023/01/18/10-herramientas-imprescindibles-para-pentesting-en-active-directory/
+https://blog.segu-info.com.ar/2023/02/listas-de-bloqueo-sandboxes-y-servicios.html
+https://www.linkedin.com/feed/update/urn:li:activity:7059495946178445312/ --> Red Team Tools
+https://cybersecuritynews.com/penetration-testing-tools/
+https://aupsham98.medium.com/practical-ios-penetration-testing-a-step-by-step-guide-8214d35aaf3c
+https://achirou.com/mas-de-200-search-tools-para-osint/
+https://achirou.com/osint-8-telefono-comunicacion-y-colaboracion/
+https://www.hackplayers.com/2024/02/ghosttask-crea-tareas-programadas-sigilosamente.html
+https://www.hackplayers.com/2024/03/dns-tunnel-keylogger-su-nombre-lo-dice.html
+
+### Penetration Testing Distributions ###
+
+- Kali Linux: distribution designed for digital forensics and penetration testing Hacking Tools
+- Kali Purple: Suite orientada a ejercicios de purple team
+- CommandoVM: suite de hacking etico basado en Windows
+- Backbox Linux
+- Parrot OS
+- Tool X: Suite de hacking etico para smartphone
+- WiFiSlax: incluye una larga lista de herramientas de seguridad y auditoría listas para ser utilizadas, entre las que destacan numerosos escáner de puertos y vulnerabilidades, herramientas para creación y diseño de exploits, sniffers, herramientas de análisis forense y herramientas para la auditoría wireless, además de añadir una serie de útiles lanzadores.
+- Bugtraq
+- Samurai Web Testing Framework
+- Caine
+- Fedora Security Lab
+- ArchStrike
+- Matriux
+- Weakerth4n
+- Distrotest: Para probar distros de Linux sin instalarlas en tu equipo. (Igual que OnWorks)
+- Damn Vulnerable Apps: Aplicaciones vulnerables para practicar hacking ético https://blog.ehcgroup.io/index.php/2019/11/29/lista-de-malditas-aplicaciones-vulnerables-para-jugar-con-el-pentesting/
+- CSI Linux: Versión de Linux para informática forense.
+- Andrax: Distro de hacking etico desarrollada específicamente para smartphones Android, ANDRAX tiene la capacidad de ejecutarse de forma nativa en Android, por lo que se comporta como una distribución Linux común.
+- Tails: Sistema operativo portátil que te protege de la vigilancia y la censura. Puedes descargarlo de forma gratuita ya que está disponible bajo licencia GNU/Linux.
+- ArchStrike: Arch GNU/Linux repository for security professionals and enthusiasts.
+- BlackArch: Arch GNU/Linux-based distribution with best Hacking Tools for penetration testers and security researchers.
+- Network Security Toolkit (NST): Fedora-based bootable live operating system designed to provide easy access to best-of-breed open source network security applications.
+- Pentoo: Security-focused live CD based on Gentoo.
+- BackBox: Ubuntu-based distribution for penetration tests and security assessments.
+- Parrot: Distribution similar to Kali, with multiple architectures with 100 of Hacking Tools.
+- Buscador: GNU/Linux virtual machine that is pre-configured for online investigators.
+- Fedora Security Lab: Provides a safe test environment to work on security auditing, forensics, system rescue and teaching security testing methodologies.
+- The Pentesters Framework: Distro organized around the Penetration Testing Execution Standard (PTES), providing a curated collection of utilities that eliminates often unused toolchains.
+- AttifyOS: GNU/Linux distribution focused on tools useful during Internet of Things (IoT) security assessments.
+
+💿 Kali Purple (SOC-in-a-box):
+https://lnkd.in/d63U2jst
+
+💿 Predator-OS (Pentesting):
+https://predator-os.ir/
+
+💿 Commando VM (Windows-based Pentesting/Red Teaming):
+https://lnkd.in/dec8_V3B
+
+💿 Whonix (Privacy and Anonymity): 
+https://lnkd.in/dpWagU2f
+
+💿 Tails (Privacy and Anonymity):
+https://tails.net/
+
+💿 Qubes OS (Hypervisor):
+https://www.qubes-os.org/
+
+💿 Mandiant Threat Pursuit (Windows-based Threat Intelligence and Hunting):
+https://lnkd.in/d-N4Dt9x
+
+💿 Tsurugi Linux (Digital Forensics and OSINT):
+https://lnkd.in/dsr-ekeB
+
+💿 SIFT Workstation (Digital Forensics):
+https://lnkd.in/dmnZRNNP
+
+💿 CSI Linux (Digital Forensics):
+https://csilinux.com/
+
+💿 RedHunt-OS Linux (Adversary Emulation and Threat Hunting):
+https://lnkd.in/db5sd6h3
+
+💿 FLARE-VM (Reverse Engineering):
+https://lnkd.in/ds9s4Wdz
+
+💿 REMnux (Reverse Engineering/Malware Analysis):
+https://remnux.org/
+
+💿 Trace Labs OSINT VM (OSINT to Find Missing Persons):
+https://lnkd.in/dsymX2KG
+
+
+
+### Top Cibersecurity/Hacking conferences ###
+
+- Spain
+  · H-c0n
+  · Rooted
+  · MundoHacker Academy
+  · NoC0nName
+  · WorldParty HackMadrid%27
+  . SecAdmin
+  · ViC0n
+  · Navaja Negra
+  · Osintomatico
+  · WonderhackEs
+  · EuskalHack
+  · MorterueloC0N
+
+- World
+  · DEF CON – Annual hacker convention in Las Vegas.
+  · Black Hat – Annual security conference in Las Vegas.
+  · BSides – Framework for organising and holding security conferences.
+  · CCC – Annual meeting of the international hacker scene in Germany.
+  · DerbyCon – Annual hacker conference based in Louisville.
+  · PhreakNIC – Technology conference held annually in middle Tennessee.
+  · ShmooCon – Annual US East coast hacker convention.
+  · CarolinaCon – Infosec conference, held annually in North Carolina.
+  · CHCon – Christchurch Hacker Con, Only South Island of New Zealand hacker con.
+  · SummerCon – One of the oldest hacker conventions, held during Summer.
+  · Hack.lu – Annual conference held in Luxembourg.
+  · Hackfest – Largest hacking conference in Canada.
+  · HITB – Deep-knowledge security conference held in Malaysia and The Netherlands.
+  · Troopers – Annual international IT Security event with workshops held in Heidelberg, Germany.
+  · Hack3rCon – Annual US hacker conference.
+  · ThotCon – Annual US hacker conference held in Chicago.
+  · LayerOne – Annual US security conference held every spring in Los Angeles.
+  · DeepSec – Security Conference in Vienna, Austria.
+  · SkyDogCon – Technology conference in Nashville.
+  · SECUINSIDE – Security Conference in Seoul.
+  · DefCamp – Largest Security Conference in Eastern Europe, held annually in Bucharest, Romania.
+  · AppSecUSA – Annual conference organized by OWASP.
+  · BruCON – Annual security conference in Belgium.
+  · Infosecurity Europe – Europe’s number one information security event, held in London, UK.
+  · Nullcon – Annual conference in Delhi and Goa, India.
+  · HOPE-Hackers On Planet Earth
+  · RSA Conference USA – Annual security conference in San Francisco, California, USA.
+  · Swiss Cyber Storm – Annual security conference in Lucerne, Switzerland.
+  · Virus Bulletin Conference – Annual conference going to be held in Denver, USA for 2016.
+  · Ekoparty – Largest Security Conference in Latin America, held annually in Buenos Aires, Argentina.
+  · 44Con – Annual Security Conference held in London.
+  · BalCCon – Balkan Computer Congress, annually held in Novi Sad, Serbia.
+  · Hacker Halted
+  · FSec – FSec – Croatian Information Security Gathering in Varaždin, Croatia.
+
+  
+### Top 25 Bug Bounty Platforms ###
+
+01. Bugcrowd
+02. HackerOne
+03. Intigriti
+04. YesWeHack
+05. Synack, Inc.
+06. HackenProof | Web3 bug bounty platform
+07. Open Bug Bounty
+08. Immunefi
+09. Cobal
+10. Zerocopter
+11. Yogosha
+12. SafeHats
+13. Vulnerability Research Labs, LLC
+14. AntiHACKme Pte Ltd
+15. RedStorm Information Security
+16. Cyber Army Indonesia
+17. Hacktrophy
+18. Nordic Defender
+19. Capture The Bug
+20. Bugbounter
+21. Detectify
+22. BugBase
+23. Code4rena
+24. huntr
+25. Pentabug
+
+The bug bounty platform shown here has various advantages. Yet, it's worth noting that there are many other great bug bounty platforms available as well. Each platform has its own features, community, and opportunities. The optimal platform for you will ultimately based on your unique requirements, skill set, and preferences.
+Whether you're a seasoned security researcher looking for complex challenges or just starting and seeking a user-friendly interface, the bug bounty landscape has something for everyone. You can select the best platform for your needs by experimenting with several options.
+
+
+### Penetration Testing Resources ###
+
+- Metasploit Unleashed – Free Offensive Security Metasploit course.
+- Penetration Testing Execution Standard (PTES) – Documentation designed to provide a common language and scope for performing and reporting the results of a penetration test.
+- Open Web Application Security Project (OWASP) – Worldwide not-for-profit charitable organization focused on improving the security of especially Web-based and Application-layer software.
+- PENTEST-WIKI – Free online security knowledge library for pentesters and researchers.
+- Penetration Testing Framework (PTF) – Outline for performing penetration tests compiled as a general framework usable by vulnerability analysts and penetration testers alike.
+- XSS-Payloads – Ultimate resource for all things cross-site including payloads, tools, games and documentation.
+- Open Source Security Testing Methodology Manual (OSSTMM) – Framework for providing test cases that result in verified facts on which to base decisions that impact an organization’s security.
+- MITRE’s Adversarial Tactics, Techniques & Common Knowledge (ATT&CK) – Curated knowledge base and model for cyber adversary behavior.
+
+### Exploit Development ###
+
+- Shellcode Tutorial – Tutorial on how to write shellcode.
+- Shellcode Examples – Shellcodes database.
+- Exploit Writing Tutorials – Tutorials on how to develop exploits.
+
+### OSINT Igenieria Social ###
+
+- casefile
+- creepy
+- dmitry
+- jigsaw
+- maltego
+- metagoofil
+- theharvester (Social-Engineer Toolkit SET Credential Harvester Attack)
+- twofi
+- urlcrazy
+- Extraer metadatos: [http://exifdata.com/index.php](http://exifdata.com/index.php)
+- Juego adivinar sitios [https://www.geoguessr.com/signup](https://www.geoguessr.com/signup) y blog con trucos de cómo saber qué sitio es [https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)
+- breach-parse: [https://github.com/hmaverickadams/breach-parse](https://github.com/hmaverickadams/breach-parse)
+- Subfinder: [https://github.com/projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder)
+- Assetfinder: [https://github.com/tomnomnom/assetfinder](https://github.com/tomnomnom/assetfinder)
+- httprobe: [https://github.com/tomnomnom/httprobe](https://github.com/tomnomnom/httprobe)
+- Amass: [https://github.com/OWASP/Amass](https://github.com/OWASP/Amass)
+- GoWitness: [https://github.com/sensepost/gowitness/wiki/Installation](https://github.com/sensepost/gowitness/wiki/Installation)
+
+### OSINT Buscadores ###
+
+- DuckDuckGo - [https://duckduckgo.com/](https://duckduckgo.com/)
+- DuckDuckGo Search Guide - [https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/](https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/)
+- Baidu - [http://www.baidu.com/](http://www.baidu.com/)
+- Bing - [https://www.bing.com/](https://www.bing.com/)
+- Bing Search Guide - [https://www.bruceclay.com/blog/bing-google-advanced-search-operators/](https://www.bruceclay.com/blog/bing-google-advanced-search-operators/)
+- Yandex - [https://yandex.com/](https://yandex.com/)
+- Google Search Guide - [http://www.googleguide.com/print/adv_op_ref.pdf](http://www.googleguide.com/print/adv_op_ref.pdf)
+- TinEye - [https://tineye.com](https://tineye.com/)
+
+### OSINT E-mails ###
+
+- Hunter.io - [https://hunter.io/](https://hunter.io/)
+- Phonebook.cz - [https://phonebook.cz/](https://phonebook.cz/)
+- VoilaNorbert - [https://www.voilanorbert.com/](https://www.voilanorbert.com/)
+- Email Hippo - [https://tools.verifyemailaddress.io/](https://tools.verifyemailaddress.io/)
+- Email Checker - [https://email-checker.net/validate](https://email-checker.net/validate)
+- Clearbit Connect - [https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en](https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en)
+- iKy - [https://github.com/kennbroorg/iKy]
+- h8mail [https://github.com/khast3x/h8mail]
+
+### OSINT Contraseñas ###
+
+- Dehashed - [https://dehashed.com/](https://dehashed.com/)
+- WeLeakInfo - [https://weleakinfo.to/v2/](https://weleakinfo.to/v2/)
+- LeakCheck - [https://leakcheck.io/](https://leakcheck.io/)
+- SnusBase - [https://snusbase.com/](https://snusbase.com/)
+- Scylla.sh - [https://scylla.sh/](https://scylla.sh/)
+- HaveIBeenPwned - [https://haveibeenpwned.com/](https://haveibeenpwned.com/)
+
+### OSINT Nombres de usuarios ###
+
+- NameChk - [https://namechk.com/](https://namechk.com/)
+- WhatsMyName - [https://whatsmyname.app/](https://whatsmyname.app/)
+- NameCheckup - [https://namecheckup.com/](https://namecheckup.com/)
+
+### OSINT Personas ###
+
+- WhitePages - [https://www.whitepages.com/](https://www.whitepages.com/)
+- TruePeopleSearch - [https://www.truepeoplesearch.com/](https://www.truepeoplesearch.com/)
+- FastPeopleSearch - [https://www.fastpeoplesearch.com/](https://www.fastpeoplesearch.com/)
+- FastBackgroundCheck - [https://www.fastbackgroundcheck.com/](https://www.fastbackgroundcheck.com/)
+- WebMii - [https://webmii.com/](https://webmii.com/)
+- PeekYou - [https://peekyou.com/](https://peekyou.com/)
+- 411 - [https://www.411.com/](https://www.411.com/)
+- Spokeo - [https://www.spokeo.com/](https://www.spokeo.com/)
+- That's Them - [https://thatsthem.com/](https://thatsthem.com/)
+- Voter Records - [https://www.voterrecords.com](https://www.voterrecords.com/)
+- TrueCaller - [https://www.truecaller.com/](https://www.truecaller.com/)
+- CallerID Test - [https://calleridtest.com/](https://calleridtest.com/)
+- Infobel - [https://infobel.com/](https://infobel.com/)
+- RocketReach - [https://rocketreach.co/]
+
+### OSINT Redes sociales ###
+
+- Twitter Advanced Search - [https://twitter.com/search-advanced](https://twitter.com/search-advanced)
+- Social Bearing - [https://socialbearing.com/](https://socialbearing.com/)
+- Twitonomy - [https://www.twitonomy.com/](https://www.twitonomy.com/)
+- Sleeping Time - [http://sleepingtime.org/](http://sleepingtime.org/)
+- Mentionmapp - [https://mentionmapp.com/](https://mentionmapp.com/)
+- Tweetbeaver - [https://tweetbeaver.com/](https://tweetbeaver.com/)
+- Spoonbill.io - [http://spoonbill.io/](http://spoonbill.io/)
+- Tinfoleak - [https://tinfoleak.com/](https://tinfoleak.com/)
+- TweetDeck - [https://tweetdeck.com/](https://tweetdeck.com/)
+- Sowdust Github - [https://sowdust.github.io/fb-search/](https://sowdust.github.io/fb-search/)
+- IntelligenceX Facebook Search - [https://intelx.io/tools?tab=facebook](https://intelx.io/tools?tab=facebook)
+- Wopita - [https://wopita.com/](https://wopita.com/)
+- Code of a Ninja - [https://codeofaninja.com/tools/find-instagram-user-id/](https://codeofaninja.com/tools/find-instagram-user-id/)
+- InstaDP - [https://www.instadp.com/](https://www.instadp.com/)
+- ImgInn - [https://imginn.com/](https://imginn.com/)
+- Snapchat Maps - [https://map.snapchat.com](https://map.snapchat.com/)
+- OSINTGram - [https://github.com/Datalux/Osintgram]
+- BlackBird - [https://github.com/p1ngul1n0/blackbird]
+- GitRecon - [https://github.com/GONZOsint/gitrecon]
+- Namechk - [https://github.com/GONZOsint/Namechk]
+- SocialPwned - [https://reconshell.com/socialpwned-osint-tool/]
+
+### OSINT Web ###
+
+- BuiltWith - [https://builtwith.com/](https://builtwith.com/)
+- Domain Dossier - [https://centralops.net/co/](https://centralops.net/co/)
+- DNSlytics - [https://dnslytics.com/reverse-ip](https://dnslytics.com/reverse-ip)
+- SpyOnWeb - [https://spyonweb.com/](https://spyonweb.com/)
+- Virus Total - [https://www.virustotal.com/](https://www.virustotal.com/)
+- Visual Ping - [https://visualping.io/](https://visualping.io/)
+- Back Link Watch - [http://backlinkwatch.com/index.php](http://backlinkwatch.com/index.php)
+- View DNS - [https://viewdns.info/](https://viewdns.info/)
+- Pentest-Tools Subdomain Finder - [https://pentest-tools.com/information-gathering/find-subdomains-of-domain#](https://pentest-tools.com/information-gathering/find-subdomains-of-domain#)
+- Spyse - [https://spyse.com/](https://spyse.com/)
+- crt.sh - [https://crt.sh/](https://crt.sh/)
+- Shodan - [https://shodan.io](https://shodan.io/)
+- Wayback Machine - [https://web.archive.org/](https://web.archive.org/)
+
+### OSINT Empresas ###
+
+- Open Corporates - [https://opencorporates.com/](https://opencorporates.com/)
+- AI HIT - [https://www.aihitdata.com/](https://www.aihitdata.com/)
+- IPsint - [https://github.com/ShadowVMX/IPsint
+
+### OSINT Wi-Fi ###
+
+- WiGLE - [https://wigle.net/](https://wigle.net/)
+- GEOWifi - [https://github.com/GONZOsint/geowifi]
+
+### OSINT Tools - Generic ###
+
+    Maltego – One of the Hacking Tools and Proprietary software for open source intelligence and forensics, from Paterva.
+    theHarvester – E-mail, subdomain and people names harvester.
+    creepy – Geolocation OSINT tool.
+    metagoofil – Metadata harvester.
+    Google Hacking Database – Database of Google dorks; can be used for recon.
+    Google-dorks – Common Google dorks and others you probably don’t know.
+    GooDork – Command line Google dorking tool.
+    dork-cli – Command line Google dork tool.
+    Censys – Collects data on hosts and websites through daily ZMap and ZGrab scans.
+    Shodan – World’s first search engine for Internet-connected devices.
+    recon-ng – One of the Hacking Tools Full-featured Web Reconnaissance framework written in Python.
+    github-dorks – CLI tool to scan Github repos/organizations for potential sensitive information leak.
+    vcsmap – Plugin-based tool to scan public version control systems for sensitive information.
+    Spiderfoot – Multi-source OSINT automation tool with a Web UI and report visualizations
+    BinGoo – GNU/Linux bash based Bing and Google Dorking Tool.
+    fast-recon – Perform Google dorks against a domain.
+    snitch – Information gathering via dorks.
+    Sn1per – ons of the Hacking Tools for Automated Pentest Recon Scanner.
+    Threat Crowd – Search engine for threats.
+    Virus Total – VirusTotal is a free service that analyzes suspicious files and URLs and facilitates the quick detection of viruses, worms, trojans, and all kinds of malware.
+    DataSploit – OSINT visualizer utilizing Shodan, Censys, Clearbit, EmailHunter, FullContact, and Zoomeye behind the scenes.
+    AQUATONE – Subdomain discovery tool utilizing various open sources producing a report that can be used as input to other tools.
+    Intrigue – Automated OSINT & Attack Surface discovery framework with powerful API, UI and CLI.
+    ZoomEye – Search engine for cyberspace that lets the user find specific network components.
+    octosuite – Advanced Open Source Intelligence Framework
+
+
+### Máquina virtual OSINT ###
+
+- TraceLabs OSINT VM - [https://www.tracelabs.org/initiatives/osint-vm](https://www.tracelabs.org/initiatives/osint-vm)
+- TraceLabs OSINT VM Installation Guide - [https://download.tracelabs.org/Trace-Labs-OSINT-VM-Installation-Guide-v2.pdf](https://download.tracelabs.org/Trace-Labs-OSINT-VM-Installation-Guide-v2.pdf)
+
+### Recursos adicionales ###
+
+- Innocent Lives Foundation - [https://www.innocentlivesfoundation.org/](https://www.innocentlivesfoundation.org/)
+- Alethe Denis - [https://twitter.com/AletheDenis](https://twitter.com/AletheDenis)
+- Joe Gray - [https://twitter.com/C_3PJoe](https://twitter.com/C_3PJoe)
+- IntelTechniques - [https://inteltechniques.com/](https://inteltechniques.com/)
+ 
+### Herramientas DNS Análisis DNS ###
+ 
+   dnsdict6
+   dnsenum
+   dnsmap
+   dnsrecon
+   dnsrevenum6
+   dnstracer
+   dnswalk
+   fierce
+   maltego
+   nmap
+   urlcrazy
+ 
+### Identificación Host ###
+ 
+    fragroute
+    fragrouter
+    wafw00f 
+    alive6
+    arping
+    cdpsnarf
+    detect-new-ip-6
+    detect-sniffer6
+    dmitry
+    dnmap-client
+    dnmap-server
+    fping
+    hping3
+    inverse_lookup6
+    miranda
+    ncat
+    netdiscover
+    nmap
+    passive_discovery6
+    thcping6
+    wol-e
+    xprobe2
+ 
+### Escáner de Red ###
+ 
+    dmitry
+    dnmap-client 
+    dnmap-server
+    netdiscover
+    zmap – Open source network scanner that enables researchers to easily perform Internet-wide network studies.
+    nmap – Free security scanner for network exploration & security audits.
+    pig – one of the Hacking Tools forGNU/Linux packet crafting .
+    scanless – Utility for using websites to perform port scans on your behalf so as not to reveal your own IP.
+    tcpdump/libpcap – Common packet analyzer that runs under the command line.
+    Wireshark – Widely-used graphical, cross-platform network protocol analyzer.
+    Network-Tools.com – Website offering an interface to numerous basic network utilities like ping, traceroute, whois, and more.
+    netsniff-ng – Swiss army knife for for network sniffing.
+    Intercepter-NG – Multifunctional network toolkit.
+    SPARTA – Graphical interface offering scriptable, configurable access to existing network infrastructure scanning and enumeration tools.
+    dnschef – Highly configurable DNS proxy for pentesters.
+    DNSDumpster – one of the Hacking Tools for Online DNS recon and search service.
+    CloudFail – Unmask server IP addresses hidden behind Cloudflare by searching old database records and detecting misconfigured DNS.
+    dnsenum – Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
+    dnsmap – One of the Hacking Tools for Passive DNS network mapper.
+    dnsrecon – One of the Hacking Tools for DNS enumeration script.
+    dnstracer – Determines where a given DNS server gets its information from, and follows the chain of DNS servers.
+    passivedns-client – Library and query tool for querying several passive DNS providers.
+    passivedns – Network sniffer that logs all DNS server replies for use in a passive DNS setup.
+    Mass Scan – best Hacking Tools for TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+    Zarp – Network attack tool centered around the exploitation of local networks.
+    mitmproxy – Interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+    Morpheus – Automated ettercap TCP/IP Hacking Tools .
+    mallory – HTTP/HTTPS proxy over SSH.
+    SSH MITM – Intercept SSH connections with a proxy; all plaintext passwords and sessions are logged to disk.
+    Netzob – Reverse engineering, traffic generation and fuzzing of communication protocols.
+    DET – Proof of concept to perform data exfiltration using either single or multiple channel(s) at the same time.
+    pwnat – Punches holes in firewalls and NATs.
+    dsniff – Collection of tools for network auditing and pentesting.
+    tgcd – Simple Unix network utility to extend the accessibility of TCP/IP based network services beyond firewalls.
+    smbmap – Handy SMB enumeration tool.
+    scapy – Python-based interactive packet manipulation program & library.
+    Dshell – Network forensic analysis framework.
+    Debookee – Simple and powerful network traffic analyzer for macOS.
+    Dripcap – Caffeinated packet analyzer.
+    Printer Exploitation Toolkit (PRET) – Tool for printer security testing capable of IP and USB connectivity, fuzzing, and exploitation of PostScript, PJL, and PCL printer language features.
+    Praeda – Automated multi-function printer data harvester for gathering usable data during security assessments.
+    routersploit – Open source exploitation framework similar to Metasploit but dedicated to embedded devices.
+    evilgrade – Modular framework to take advantage of poor upgrade implementations by injecting fake updates.
+    XRay – Network (sub)domain discovery and reconnaissance automation tool.
+    Ettercap – Comprehensive, mature suite for machine-in-the-middle attacks.
+    BetterCAP – Modular, portable and easily extensible MITM framework.
+    CrackMapExec – A swiss army knife for pentesting networks.
+    impacket – A collection of Python classes for working with network protocols.
+    
+ 
+### Detección Sistema Operativo (OS Fingerprinting) ###
+ 
+    dnmap-client
+    dnmap-server
+    miranda
+    nmap
+ 
+### Análisis Samba ###
+ 
+    accheck
+    nbtscan
+    nmap
+ 
+### Análisis SNMP ###
+ 
+    braa
+    cisco-auditing-tool
+    cisco-torch
+    copy-router-config
+    merge-router-config
+    nmap
+    onesixtyone
+ 
+### Análisis SSL ###
+ 
+    sslcaudit
+    ssldump
+    sslh
+    sslscan
+    sslsniff
+    sslstrip
+    sslyze
+    stunnel4
+    tlssled
+ 
+### Análisis de Tráfico ###
+ 
+    cdpsnarf
+    intrace
+    irpas-ass
+    irpass-cdp
+    p0f
+    tcpflow
+    wireshark
+ 
+### Análisis de VOIP ###
+ 
+    ace
+    enumiax
+ 
+### Análisis VPN ###
+ 
+     ike-scan
+ 
+### Análisis Vulnerabilidades ###
+ 
+    cisco-auditing-tool
+    cisco-global-exploiter
+    cisco-ocs
+    cisco-torch
+    yersinia
+ 
+### Análisis Base de Datos (SQL) ###
+ 
+    bbqsql
+    dbpwaudit
+    hexorbase
+    mdb-export
+    mdb-parsecsv
+    mdb-sql
+    mdb-tables
+    oscanner
+    sidguesser
+    sqldict
+    sqlmap
+    sqlninja
+    sqlsus
+    tnscmd10g
+ 
+### Herramientas Fuzzing (Fuerza Bruta) ###
+ 
+    bed
+    brutex
+    fuzz_ip6
+    ohrwurm
+    powerfuzzer
+    sfuzz
+    siparmyknife
+    spike-generic_chunked
+    spike-generic_listen_tcp
+    spike-generic_send_tcp
+    spike-generic_listen_upd
+    burpsuite
+    powerfuzzer
+    webscarab
+    webslayer
+    websploit
+    wfuzz
+    xsser
+    zaproxy
+ 
+### Identificación de CMS ###
+ 
+     blindelephant
+     plecost
+     wpscan
+     joomscan
+ 
+### Proxys ###
+ 
+    burpsuite
+    paros
+    proxystrike
+    vega
+    webscarab
+    zaproxy
+ 
+### Herramientas Web ###
+ 
+    apache-users
+    burpsuite
+    cutycapt
+    dirb
+    dirbuster
+    vega
+    webscarab
+    webslayer
+    zaproxy
+    Nikto – Noisy but fast black box web server and web application vulnerability scanner.
+    Arachni – Scriptable framework for evaluating the security of web applications.
+    w3af – Hacking Tools for Web application attack and audit framework.
+    Wapiti – Black box web application vulnerability scanner with built-in fuzzer.
+    SecApps – In-browser web application security testing suite.
+    WebReaver – Commercial, graphical web application vulnerability scanner designed for macOS.
+    WPScan – Hacking Tools of Black box WordPress vulnerability scanner.
+    cms-explorer – Reveal the specific modules, plugins, components and themes that various websites powered by content management systems are running.
+    joomscan – on of the best Hacking Tools for Joomla vulnerability scanner.
+    ACSTIS – Automated client-side template injection (sandbox escape/bypass) detection for AngularJS.
+    Nuclei -
+
+ 
+### Herramientas GPU ###
+ 
+     oclhashcat-lite
+     oclhashcat-plus
+     pyrit
+ 
+### Herramientas Off-line ###
+ 
+    cachedump
+    chntpw
+    cmospwd
+    crunch
+    dictstat
+    hashcat
+    hash-identifier
+    john the ripper
+    johnny
+    lsadump
+    maskgen
+    oclhashcat-lite
+    oclhashcat-plus
+    ophcrack
+    ophcrack-cli
+    policygen
+    pwdump
+    pyrit
+    rainbowcrack
+    rcracki_mt
+    rsmangler
+    samdump2
+    sipcrack
+    sucrack
+    truecrack
+ 
+### Herramientas Online ###
+ 
+    accheck
+    burpsuite
+    cewl
+    cisco-auditing-tool
+    dbpwaudit
+    findmyhash
+    hydra
+    hydra-gtk
+    medusa
+    ncrack
+    onesixtyone
+    patator
+    phrasendrescher
+    thc-pptp-bruter
+    webscarab
+    zaproxy
+ 
+### Ataques bluetooth ###
+ 
+    bluelog
+    bluemaho
+    blueranger
+    btscanner
+    fang
+    spooftooph
+ 
+### Herramientas Wireless - Wifi ###
+ 
+    aireplay-ng
+    airmon-ng
+    airodump-ng
+    asleap
+    cowpatty
+    eapmd5pass
+    fern-wifi-cracker
+    genkeys 
+    genpmk
+    giskismet 
+    mdk3
+    lazy
+    wifiarp
+    wifidns 
+    wifi-honey
+    wifiping 
+    wifitap
+    zbassocflood 
+    zbconvert
+    zbdsniff 
+    zbdump
+    zbfind 
+    zbgoodfind 
+    zbid 
+    zbreplay 
+    zbstumbler
+    WEF
+    Aircrack-ng – Set of Penetration testing & Hacking Tools list for auditing wireless networks.
+    Kismet – Wireless network detector, sniffer, and IDS.
+    Reaver – Brute force attack against WiFi Protected Setup.
+    Wifite – Automated wireless attack tool.
+    Fluxion – Suite of automated social engineering based WPA attacks.
+
+ 
+### Herramientas NFC ###
+ 
+    mfcuk
+     mfoc
+    mifare-classic-format
+    nfc-list
+    nfc-mfclassic
+ 
+### Sniffers de Red ###
+ 
+    darkstat
+    dnschef
+    dnsspoof 
+    dsniff
+    ettercap-graphical
+    hexinject
+    mailsnarf 
+    netsniff-ng 
+    passive_discovery6 
+    sslsniff 
+    tcpflow
+    urlsnarf 
+    webmitm 
+    webspy 
+    wireshark
+    ettercap-graphical
+    evilgrade
+    fake_advertise6
+    fake_dns6d
+    fake_dnsupdate6 
+    fake_mipv6
+    fake_mld26
+    fake_mld6
+    fake_mldrouter6
+    fake_router6
+    fake_solicitate6 
+    fiked 
+    macchanger 
+    parasite6 
+    randicmp6
+    rebind
+    redir6 
+    sniffjoke 
+    sslstrip 
+    tcpreplay 
+    wifi-honey 
+    yersinia
+ 
+### Herramientas VoIP ###
+ 
+    iaxflood
+    inviteflood 
+    ohrwurm
+    protos-sip
+    rtpbreak
+    rtpflood 
+    rtpinsertsound 
+    rtpmixsound
+    sctpscan
+    siparmyknife
+    sipp
+    sipsak 
+    svcrack 
+    svcrash
+    svmap
+    svreport
+    svwar 
+    voiphopper
+ 
+### Sniffers Web ###
+ 
+    burpsuite
+    dnsspoof 
+    driftnet 
+    ferret
+    mitmproxy
+    urlsnarf
+    webmitm
+    webscarab
+    webspy
+    zaproxy
+ 
+### Backdoors ###
+ 
+    cymothoa 
+    dbd
+    intersect
+    powersploit
+    sbd 
+    u3-pwn
+ 
+### Herramientas de Tunneling ###
+ 
+    cryptcat
+    dbd
+    dns2tcpc
+    dns2tcpd
+    iodine
+    miredo
+    ncat
+    proxychains
+    proxytunnel
+    ptunnel
+    pwnat 
+    sbd socat
+    sslh 
+    stunnel4
+    updtunnel
+ 
+### Debuggers (Decompiladores) y Reversing ###
+ 
+    edb-debugger 
+    ollydbg
+    jad
+    rabin2
+    radiff2
+    rasm2
+    recstudio
+    recstudio-cli
+    apktool
+    clang
+    clang++ 
+    dex2jar 
+    flasm 
+    javasnoop
+    radare2 
+    rafind2
+    ragg2
+    ragg2-cc
+    rahash2
+    rarun2
+    rax2
+ 
+### Herramientas Stress de Red (Web, Wlan) ###
+ 
+    denial6
+    dhcpig
+    dos-new-ip6 
+    flodd_advertise6 
+    flood_dhcpc6 
+    flood_mld26 
+    flood_mld6
+    flood_mldrouter26
+    flood_router6 
+    flood_solicitate6
+    fragmentation6
+    inundator 
+    kill_router6
+    macof
+    rsmurf6 
+    siege 
+    smurf6
+    iaxflood
+    invite flood
+    thc-ssl-dos
+    mdk3
+    reaver
+ 
+### Herramientas Android ###
+ 
+    android-sdk
+    apktool 
+    baksmali
+    dex2jar
+    smali
+ 
+### Herramientas Análisis Forense (Creación imágenes, Suites, RAM, PDF) ###
+ 
+    autopsy
+    binwalk
+    bulk_extractor
+    chrootkit
+    dc3dd 
+    dcfldd
+    extundelete
+    foremost
+    fsstat
+    galleta
+    tsk_comparedir
+    tsk_loaddb
+    affcompare
+    affcopy
+    affcrypto
+    affdiskprint
+    affinfo
+    affsignaffstats
+    affuse 
+    affverify
+    affxml
+    blkcalc
+    blkcat
+    blkstat
+    bulk_extractor
+    ffind
+    fls
+    foremost
+    galleta
+    hfind
+    icat-sleuthkit
+    ifind
+    ils-sleuthkit
+    istat
+    jcat
+    mactime-sleuthkit
+    missidentify
+    mmcat
+    pdgmail
+    readpst
+    reglookup
+    sorter
+    srch-strings
+    tsk_recover
+    vinetto
+    binwalk
+    bulk_extractor
+    foremost
+    jls
+    magicrescue
+    pasco
+    pev
+    recoverjpeg
+    fifiuti
+    rifiuti2
+    safecopy
+    scalpel
+    scrounge-ntfs
+    affcat
+    affconvert
+    blkls
+    dc3dd
+    dcfldd
+    ddrescue
+    ewfacquire
+    ewfacquirestream
+    ewfexport
+    ewfinfo
+    ewfverify
+    fsstat
+    guymager
+    img_cat
+    img_stat
+    mmls
+    mmstat
+    tsk_gettimes
+    dff
+    pdf-parser
+    peepdf
+    volafox
+    volatility
+
+### Other Tools ###
+
+- httpanalizer: analizador de vulnerabilidades a sitios web -> otras: achilles, ZAP, Acunetix, Nikto
+- Nessus: analizador de vulnerabilidades en general
+- BloodCat: A tool for collecting publicly exposed network cameras, with support for specifying country and region. 
+- SARA: analizador de seguridad de un sistema
+- FOCA: es una herramienta utilizada principalmente para encontrar metadatos e información oculta en los documentos que examina. Estos documentos pueden estar en páginas web, y con FOCA se pueden descargar y analizar.Tambien se puede utilizar para busqueda de DNS, test de penetración y mas cosas que aparecen en [http://www.elevenpaths.com/es/foca-market](http://www.elevenpaths.com/es/foca-market)
+- LiveCD ophcrack: para obtener las contraseñas de un sistema Windows
+- Torpark: para anonimato
+- Hotfuzz: Para man in the middle y fuzzing
+- THC-vlogger: keylogger para sistemas Linux (otro: LKL)
+- Perfect Keylogger: keylogger para sistemas Windows
+- Themida: permite cifrar los troyanos y virus para que sean indetectables por cualquier antivirus
+- Antisniff: Permite dectar sniffer dentro de la red.
+- Arpscan: Permite determinar los equipos activos de una red.
+- Cain & Abel: Completa suite informatica en Windows que permite romper la seguridad de los sistemas.
+- Cia commander: Permite obtener y modiﬁcar el ﬁchero de contraseﬁas de los sistemas Windows
+- Ethercap: Sniffer para sistemas GNU/Linux (también puede realizar ataques DNS Poisoning).
+- Absinthe: Es una de las herramientas más fáciles y populares para hacer jailbreak a los iPhone, iPad e iPod Touch desarrollados por el equipo de Chronic Dev.
+- airoscript: Es la utilidad mas completa para auditar redes inalámbricas, aunque también la mas compleja de todas, nos permite sacar claves comparando las datas capturadas con diccionarios
+- amap: Herramienta de escaneo para pentesters
+- antisniff: Es una nueva clase de herramienta proactiva de monitoreo de seguridad. Tiene la capacidad de escanear una red y detectar si hay o no computadoras en modo promiscuo.
+- GFI Languard: Es una galardonada solución de escáner de red y de seguridad, que le permite analizar su red y puertos para detectar, evaluar y corregir vulnerabilidades de seguridad con el mínimo esfuerzo administrativo. Administración de actualizaciones, Evaluación de vulnerabilidad, Auditoría de red.
+- Http analizer: Con esta utilidad podrás capturar en tiempo real todo el tráfico HTTP y HTTPS que pase por tu navegador web, mostrando una información amplia y variada. Entre otros datos, podrás acceder a cabeceras, cookies, consultas, datos de peticiones al servidor y sus respuestas... También proporciona datos sobre caché y sesión de usuario, además del tráfico originado por applets de Java, Javascript o controles ActiveX.
+- MBSA: Fuera de uso. Permite analizar la seguridad de un sistema Windows.
+- Netcat (nc): Herramienta para abrir/cerrar puertos a la escucha
+- Netdiscover: Se utiliza para descubrir todos los equipos activos en tu red
+- PerfectKeylogger: Registra todo lo que pasa en el teclado de un equipo en un archivo protegido.
+- Poison Ivy: Es una Herramienta de Acceso Remoto (RAT) que es comúnmente aprovechada por los atacantes porque es gratuita y fácil de usar. Proporciona una plataforma rápida y rica en funciones para controlar un sistema comprometido. La instalación de un servidor C2 y la creación de una muestra de malware se puede hacer con unos pocos clics del ratón.
+- Promiscan: Es una herramienta de detección de nodos de olfateo estándar de facto recomendada por SANS y utilizada en todo el mundo desde su lanzamiento. PromiScan 3.0 ha mejorado sus capacidades de monitorización proporcionando una monitorización continua para detectar aplicaciones promiscuas que empiezan y terminan sin aumentar la carga de la red.
+- Pwdump2: Crackeador de contraseñas de Windows
+- Brut3k1t: es un módulo bruteforce del lado del servidor que admite ataques de diccionario para diversos protocolos (smtp, instagram, facebook, gmail, ssh, XMPP...)
+- Retina: Como Nessus, analiza todos los hosts de una red e informar sobre las vulnerabilidades encontradas. Fue escrito por eEye, que son bien conocidos por su investigación sobre seguridad.
+- Shadow Security Sacanner: Escáner proactivo de evaluación de vulnerabilidades de seguridad de redes informáticas con más de 5000 auditorías
+- xProbe2: Como nmap
+- VolPong: Utilidad que detecta todas las llamadas de Voz sobre IP en un oleoducto
+- Mimikatz: Es una herramienta que entre otras características permite el volcado de contraseñas en texto claro de un sistema Windows, la exportación de certificados marcados como no exportables o la obtención de hashes de la SAM.
+- WCE: Es una herramienta de seguridad para listar sesiones de inicio de sesión y agregar, cambiar, listar y eliminar credenciales asociadas (por ejemplo: hashes LM/NT, contraseñas de texto plano y tickets Kerberos). Puede obtener hashes NT/LM de la memoria (de inicios de sesión interactivos, servicios, conexiones de escritorio remotas, etc.), tambien tickets Kerberos y reutilícelos en otros sistemas Windows o Unix y vuelque contraseñas de texto claro introducidas por los usuarios en el inicio de sesión.
+- Psexec: Permite ejecutar procesos en otros sistemas, con total interactividad para aplicaciones de consola, sin tener que instalar manualmente software cliente. Los usos más potentes de PsExec incluyen el lanzamiento de comandos interactivos en sistemas remotos y herramientas de habilitación remota como ipconfig que de otra manera no tienen la capacidad de mostrar información sobre sistemas remotos.
+- Scraper y Winenum: Se dedican a realizar una inmensa cantidad de consultas de todo tipo al sistema vulnerado y van guardando los resultados en archivos de texto
+- Smart_hashdump: Obtener un volcado del hashdump de usuarios y contraseñas de un equipo al que tengamos acceso, así como un listado de las frases que usa Windows para darle pistas al usuario en caso de que se olvide la contraseña.
+- Snitch: Snitch es una herramienta de recopilación de información que automatiza el proceso para un dominio específico. Usando categorías incorporadas, esta herramienta ayuda a recopilar dominios de información específicos que se pueden encontrar en los motores de búsqueda de la web. Puede ser muy útil en las primeras fases de las pruebas de penetración (comúnmente llamadas la fase de recopilación de información).
+- Bingoo: Una herramienta de Bing y Google Dorking basada en Linux.
+- Exiftool: Busqueda de metadatos exif de un archivo
+- Pyexiftoolgui: Busqueda de metadatos exif de un archivo modo grafico
+- APT2: Un juego de herramientas de prueba de penetración automática.
+- CrossLinked: Escrita en python, simplifica los procesos de búsqueda de LinkedIn para recopilar nombres de empleados válidos de una organización que cuenten con perfil en la red social Linkedin donde anuncien en qué organización trabajan o han trabajado.
+- Hunter.io: Web que permite encontrar direcciones de correo electrónico de una organización utilizando técnicas OSINT y determinar el patrón de generación de los usuarios de las cuentas de correo electrónico encontradas.
+- Proxy Hidester: Es un Web Proxy Gratuito y 100% anónimo con servidor en Europa y EE.UU. Y no contiene ninguna publicidad en su sitio.
+- Proxy.org: [Proxy.org](http://proxy.org/) es la guía pragmática del usuario para mantener la privacidad en línea y la navegación web anónima.
+- Proxify: Proxify es un proxy web que modifica cada página web que visites para que todos sus recursos (como enlaces, imágenes y formularios) apunten a Proxify.
+- XRoxy.com: Ofrece acceso gratuito a una base de datos de proxies abiertos que se actualiza con frecuencia a través de una interfaz de usuario flexible que permite ordenar la lista de proxies por tipo, nivel de anonimato, número de puerto, latencia de la conexión, etc.
+- Ninja Cloak: Ninja Cloak es un servicio web proxy gratuito que permite navegar por sitios web de manera anónima e incluso desde detrás de un firewall con los puertos bloqueados.
+- BlewPass: BlewPass ayuda a evitar los filtros de Internet y firewalls impuestos por la escuela, el trabajo o un país. Manténte a salvo y seguro mientras navegas a través de sus servidores.
+- Dont Filter: [Dontfilter.us](http://dontfilter.us/) es un desbloqueador web anónimo y una herramienta de privacidad online. Con este servicio se puede acceder a todos los sitios web que el administrador y/o el país correspondiente no quieren que estés mirando.
+- HideMyAss: Es un servicio web proxy gratuito que permite navegar de forma anónima, ocultar la dirección IP, ocultar el historial de Internet y proteger tu identidad en línea.
+- Dirb: Listar directorios de una web
+- WPscan: Escaner de vulnerabilidades de webs hechas con Wordpress
+- Searchexploit: Busqueda en la maquina local de algun exploit de alguna vulnerabilidad que nosotros le pasemos como parametro
+- TOR Router: Herramienta que nos permite dejar Tor como nuestro Gateway principal para poder enviar todas las conexiones de internet bajo la red TOR.
+- Malconfscan: extrae la configuración de malware conocido de una imagen de memoria
+- Malstrscan: detecta procesos sospechosos de una imagen de memoria y enumera la string a la que se refiere
+- iBombshell: se trata de la "shell" de post-explotación que nos presentó Pablo González y Álvaro Nuñez en la última hc0n2019. Tiene como objetivo poder usarse prácticamente en cualquier equipo con Windows, gracias a que es descargada desde el repo dinámicamente. Bueno, realmente tiene dos modos de ejecución, el denominado "everywhere" con Powershell y otro adicional llamado "silently" gracias a un C2 escrito en Python.
+- Koadic: un rootkit de post-explotación de Windows similar a otras herramientas de pentesting como Meterpreter, Cobalt Strike o Powershell Empire. La principal diferencia es que Koadic hace la mayoría de sus operaciones usando Windows Script Host (aka JScript/VBScript) y tiene compatibilidad para soportar desde una instalación predeterminada de Windows 2000 sin service packs (y potencialmente incluso versiones de NT4) hasta Windows 10.
+- HiddenEye: Una herramienta de hacking todo en uno que incluye Keylogger, Ingeniería social y Phishing para más de 30 redes sociales, entre las que destaca Facebook, Twitter, Instagram
+- Shellphish: Una herramienta de phishing para 18 redes sociales.
+- Wifiphisher: Conseguir contraseñas WiFi WPA/WPA2 con Phishing.
+- Brutemap: es una herramienta de prueba de penetración (Pentesting) de código abierto que automatiza el intento de hackear usuario y contraseña de la página de inicio de sesión de cualquier sitio web, basado en un Ataque de diccionario (Dictionary Attack).
+- CyberScan: Kit de herramientas forenses para Redes, fácil de usar que agrupa funciones de herramientas como Nmap, Zenmap, Wireshark, etc. Sin embargo, CyberScan es muy simple y compacto. Se trata de un conjunto de herramientas de código abierto para el pentesting y ethical hacking.
+- Steghide: Herramienta de esteganografía que te permite encubrir registros confidenciales dentro de un registro de imagen o sonido con una frase de contraseña. Refuerza los grupos de imagen BMP y JPEG, y los grupos de sonido AU y WAV. Por defecto, utiliza Rijndael (AES) para encubrir el registro y la medida clave es de 128 bits.
+- Trape: es una herramienta de análisis e investigación OSINT, que permite rastrear personas y ejecutar ataques de ingeniería social inteligentes en tiempo real.
+- TinEye: Analisis y reversing de imagenes para comprobar la vericidad de una imagen. Otros: Yandex, Google imagenes
+- Onyphe.io: Es un buscador de dispositivos conectados a Internet similar a Shodan, Censys, ZoomEye o Fofa.
+- USBSamurai: Dispositivo USB malicioso, capaz de capturar pulsaciones de teclado.
+- BombitUP: es una aplicación utilizada en el bombardeo de SMS (envío masivo de SMS a terminal)
+- Evil Limiter: Herramienta que se utiliza para limitar/aumentar la velocidad (especialmente Wi-Fi) a ciertos dispositivos conectados en tu red. Tambien se puede utilizar para saber que equipos hay conectados a tu red y descubrir así intrusos y echarlos.
+- Jok3er: Reutiliza y combina un buen conjunto de herramientas de pentesting comunes para extraer la mayor cantidad de información de manera conjunta, sin tener que estar ejecutando cada una de forma independiente (Integración con más de 50 herramientas de pentesting comunes, configuración sencilla, es posible eliminar o añadir herramientas con un simple fichero de configuración, soporte a múltiples servicios de red basados en TCP y UDP, tales como HTTP, SSH, FTP, DNS, VNC, PostgreSQL, MySQL, se encarga de verificar el objetivo y seleccionar de forma automática las herramientas que puedan arrojar mejores resultados de acuerdo al contexto.
+- Revshellgen: Script python independiente para generar fácilmente shells inversos y automatizar las cosas aburridas como la codificación de URL del comando y la configuración de un oyente.
+- Empire: Es un framework muy interesante que incluye varios elementos de post-explotación enfocados a sistemas windows utilizando PowerShell, así como sobre sistemas GNU/Linux comprometidos utilizando Python
+- Wafwoof: Herramienta para evadir el WAF en una aplicacion web (con SQLmap tambien se puede)
+- Bypasswaf: Plugin para burpsuite para poder detactar y evadir el WAF
+- Webmii: Herramienta on-line para localizar cuentas de personas en internet (tambien checkusernames y spokeo)
+- Anubis/Annubis: Es una herramienta de recopilación de información y enumeración de subdominios . Anubis recopila datos de una variedad de fuentes, incluidos HackerTarget, DNSDumpster, x509 certs, VirusTotal, Google, Pkey y NetCraft. Anubis también tiene un proyecto hermano, AnubisDB , que sirve como un depósito centralizado de subdominios.
+- Findomain: Es capaz de encontrar 5622 subdominios en 38.7 segundos, esto la convierte en la herramienta más rápida para búsqueda de subdominios en el mundo.
+- SocialBox: Es un framework de ataque de fuerza bruta (Facebook, Gmail, Instagram, Twitter)
+- Recreator-Phishing: Es una herramienta de phishing simple que puede realizar suplantación de identidad en casi cualquier sitio web. Un programa simple, para personas simples, para realizar ataques simples de ingeniería social.
+- Uptux: Comprobador de escalada de privilegios en Linux.
+- XORpass: Herramienta que permite saltar los filtros WAF y lograr ejecución de código PHP en el servidor.
+- Graudit: Un conjunto de scripts y firmas que permiten encontrar posibles fallos de seguridad en el código fuente utilizando la utilidad grep de GNU. Es comparable a otras aplicaciones de análisis estático como RATS, SWAAT y flaw-finder, al tiempo que mantiene los requisitos técnicos al mínimo y es muy flexible.
+- OWASP Amass: Se centra en la enumeración de DNS y en las técnicas de generación de mapas de infraestructura de red. Estas técnicas incluyen: obtener nombres de subdominios al rastrear en páginas web, acceder a las API web, consultar bases de datos públicas, fuerza bruta recursiva, rastrear archivos web, permutar/alterar nombres DNS, revertir DNS y consultar ASN y netblocks asociados con direcciones IP. La información recopilada durante una enumeración se utiliza para construir una base de datos gráfica que genera un mapa de la presencia de una organización en Internet.
+- Evilginx2: Es una herramienta de phishing muy completa, [https://thehackerway.com/2019/11/06/phishing-2-0-con-evilginx2-parte-1/](https://thehackerway.com/2019/11/06/phishing-2-0-con-evilginx2-parte-1/)
+- Subdomain3: Permite descubrir más información sobre dominios en menos tiempo que otras herramientas, incluyendo subdominios, IP, CDN, etc.
+- MR.TOOLBOX: Analizador de correos, comprueba si son legitimos. Para mucha más info sobre este tema leer el post [https://fwhibbit.es/fishing-phishers-how-to-fish-a-scammer-esp](https://fwhibbit.es/fishing-phishers-how-to-fish-a-scammer-esp) que incluye herramientas muy interesantes
+- aSYNcrone: Herramienta que permite el envio masivo de paquetes SYN para crear un ataque DDoS
+- Sublister: Potente enumerador de subdominios.
+- Reconbra: Es un framework completo de Pentesting automatizado y Footprinting para Information Gathering.
+- URLextractor: Information Gathering de Sitios Web
+- PhoneInfoga: Information gathering y OSINT para números telefónicos
+- FBI: Facebook Information | Information gathering de perfiles Facebook
+- SiteBroker: Una herramienta de Information Gathering
+- InfoG: Herramienta para Information Gathering
+- BillCipher: Herramienta para Information Gathering
+- R3Con1Z3R: Una herramienta de recolección de información
+- Pentest-tools: Herramienta de analisis de vulnerabilidades
+- Ss, Netstat, Lsof, Nmap: Escaneadores de puertos abiertos
+- NmapAutomator: Herramienta para automatizar todo el proceso de recon/enumeración
+- Turbolist3r: Herramienta de enumeración de subdominios con características de análisis para los dominios descubiertos
+- Hakrawler: Es un crawler o rastreador web escrito en Go y diseñado para el descubrimiento fácil y rápido de endpoints y assets dentro de una aplicación web. Se puede usar para descubrir: Formularios, Puntos finales (Endpoints), Subdominios, Dominios relacionados y Archivos JavaScript.
+- BetterBackdoor: Backdoor multifuncional para Windows
+- OSIF: Es una herramienta de Information Gathering para cuentas y perfiles de Facebook.
+- sAINT: Generador de spyware para sistemas Windows escrito en Java, permite Keylogger, tomar captura de pantalla, captura de webcam, persistencia.
+- Socialscan: Verifica disponibilidad de email y usuario en plataformas sociales
+- Ehtools Framework: Herramientas de pentesting para Wi-Fi
+- Assembler: Te permite saber fácilmente si una imagen es falsa o ha sido modificada.
+- Xencrypt y SecForce: Son unos crypter en PowerShell que utiliza cifrado AES y compresión Gzip/DEFLATE para generar con cada ejecución una cantidad casi infinita de variantes para bypassear antivirus. Lo hace comprimiendo y cifrando el script de entrada y almacenando los datos como un payload en un nuevo script que descifrará y descomprimirá antes de ejecutarlo. En esencia, es para PowerShell lo que es un crypter PE.
+- TeleGram-Scraper: Es una herramienta para scrapear grupos de Telegram y obtener toda la información sobre los miembros del grupo
+- OKadminFinder: Encontrar el panel de administrador de sitios web (login)
+- OpenRelayMagic: Herramienta para encontrar servidores SMTP vulnerables a openrelay
+- dSploit APK: Conjunto de herramientas de hacking para Android
+- TugaRecon: es una herramienta de enumeración/enumeration rápida de subdominios para los probadores de penetración.
+- Syborg: Enumerador recursivo de sub-dominios DNS, no es ni activo ni completamente pasivo.
+- Fuzzowski: El objetivo de esta herramienta es ayudar durante todo el proceso de fuzzing de un protocolo de red, permitiendo definir las comunicaciones, ayudando a identificar a los "sospechosos" de colapsar un servicio, y mucho más.
+- Nray: Distributed Port Scanner
+- NekoBot: Auto Exploiter With 500+ Exploit 2000+ Shell
+- Gospider: Web spider rapido escrito en go
+- DecryptTeamViewer: Enumerar y descifrar las credenciales de TeamViewer del registro de Windows
+- Frida: Es un poderoso y extensible juego de herramientas para android, es ideal para probar y evaluar aplicaciones nativas de Android, permite interceptar los datos recibidos y enviados por las aplicaciones e inyectar su propio código en el proceso.
+- Drozer: Es una herramienta la cual permite el análisis de dispositivos móviles Android como la de sus aplicaciones (APKs). Gracias a Drozer, se pueden ejecutar módulos que realizan distintas funciones como podrían ser el listado de paquetes instalados en el dispostivo o la enumeración de las actividades de un paquete.
+- Hashcracker: Es una herramienta escrita en Python para desencriptar Hashes: SHA512, SHA256, SHA384, SHA1, MD5 ya sea por fuerza bruta o lista de contraseñas (diccionario)
+- Sparrow-Wifi: Analizador WiFi y Bluetooth basado en GUI para Linux. mas detalle --> [https://esgeeks.com/sparrow-wifi-analizador-wifi-bluetooth-linux/](https://esgeeks.com/sparrow-wifi-analizador-wifi-bluetooth-linux/)
+- KawaiiDeauther: Es una herramienta que permite desconectar las conexiones WiFi de otras personas sin tener que iniciar sesión. Es un kit de herramientas pentest cuyo propósito es bloquear el cliente / router WiFi y enviar spam a muchos AP falsos con fines de prueba.
+- Sudo-killer: Es una herramienta que puede ser utilizada para la escalada de privilegios en el entorno de linux abusando del SUDO de varias maneras.
+- RedRabbit: Script en powershell que contiene diferentes herramientas de pentesting (reconocimiento, DNS...) mas info y descarga en --> [https://github.com/securethelogs/RedRabbit](https://github.com/securethelogs/RedRabbit)
+- Subfinder: Es una herramienta de descubrimiento de sub-dominios para sitios web
+- BeRoot: Es una herramienta de post-explotación que ayuda a un pentester a lograr ser Administrador (root) en un sistema operativo Microsoft Windows, a través de chequear malas configuraciones, debilidades o utilizar alguna vulnerabilidad conocida de la instancia concreta del sistema objetivo.
+- Windows Exploit Suggester: Es una herramienta de las que pueden ayudar a conocer el estado real de los sistemas Microsoft en cuanto a actualizaciones del sistema. La herramienta permite obtener un listado de paquetes de actualizaciones que faltan por instalar y, además, indica qué vulnerabilidades son las que afectan al sistema. Como nota diferenciadora nos indica qué exploits existen en exploit-db o qué módulos de Metasploit hay públicos para llevar a cabo una posible explotación.
+- Lynis: Permite realizar auditoria de seguridad y fortificación de los sistemas basados en Unix. Lynis realiza un escaneo profundo sobre el sistema en el que se lanza, aunque juntándola con SSH podríamos lanzarla de forma sencilla en otros servidores de la organización. El objetivo de Lynis es detectar fallos de seguridad y errores de configuración o debilidades en el propio sistema.
+- SearchOrg.py: Escript en python que permite obtener la mayor información posible de la empresa que se esta analizando, para esto existen múltiples herramientas y metodologías. SearchOrg es una herramienta que busca integrar algunas técnicas pasivas y otras activas para obtener información de una empresa usando su dominio de correo electrónico.
+- Metabigor: Es una herramienta de inteligencia, su objetivo es realizar tareas OSINT y algunas otras más pero sin ninguna clave API. Por el momento sus principales características son: descubrir la dirección IP del objetivo, wrapper para ejecutar masscan y nmap en la IP objetivo, realizar búsquedas desde la línea de comandos en algún motor de búsqueda.
+- XCTR Hacking Tools: El todo en uno de herramientas de Information Gathering
+- WiFi Passview V2.0: Es un programa de código abierto basado en scripts por lotes que puede recuperar tu contraseña WiFi fácilmente en segundos. Esto es sólo para el sistema operativo Windows.
+- Extended-XSS-Search: Herramienta de escaneo para diferentes tipos de XSS en URls
+- Phonia: Herramienta avanzada para escanear números de teléfono, el objetivo es recopilar primero información estándar como el país, el área, el operador y el tipo de línea en cualquier número de teléfono internacional con muy buena precisión.
+- Mouse Framework: Es un Framework de post explotación de iOS y macOS que te brinda una sesión de línea de comandos con funcionalidad adicional entre tú y una máquina de destino utilizando una simple Mouse Payload. Mouse te brinda el poder y la conveniencia de cargar y descargar archivos, completar pestañas, tomar fotografías, rastrear la ubicación, ejecutar comandos de shell, aumentar los privilegios, recuperar contraseñas y mucho más.
+- PasswordStats: Herramienta de Auditoría de Contraseñas, es una herramienta para recopilar estadísticas de contraseñas más exhaustivas de los volcados de contraseñas. (NO CRACKEADAS)
+- Dagon: Es un script avanzado de craqueo y manipulación de hash, capaz de hacer fuerza bruta a múltiples tipos de hash, crear diccionarios de fuerza bruta, verificar automáticamente un algoritmos de hash, generar un sal (salt) aleatoria y mucho más.
+- Pentest Tools Framework: Es una base de datos de exploits, escáneres y herramientas para pruebas de penetración. Pentest es un poderoso framework que incluye muchas herramientas para principiantes. Puede explorar las vulnerabilidades del núcleo, las vulnerabilidades de la red, y mucho más.
+- InstaSave: Script Python para descargar imágenes, videos y fotos de perfil de Instagram
+- php jpeg injector: Herramienta para inyectar codido php en una imagen (como una webshell) y asi subirla a la web onjetivo
+- uDork: Herramienta con dorks para Google Hacking
+- Procdump de Sysinternals: Sirve para llevar a cabo un volcado de memoria de un proceso.
+- VeilEvasion: Es una herramienta diseñada para generar payloads de metasploit que evitan los antivirus comunes.
+- Shelter Framework: Es una herramienta muy parecida a Veil pero con la diferencia de que es más completa, ya que no solo permite el uso de payloads de metasploit si no cualquier otro de otro sitio (incluso creado por nosotros). También permite unificarlo con programas/apps legítimas para dar mayor encodeo al payload y más dificultad de detección por parte de los antivirus.
+- TweetShell: Herramienta de fuerza bruta para cuentas de twitter
+- RapidPayload: Creador de payloads de metasploit rapido y sin entrar en metasploit
+- Katana: Herramienta en python para Google Hacking
+- Zphisher: Herramienta para crear phishing sobre distintas plataformas (Adobe, Facebook, Paypal...)
+- Webkiller V2.0: Tool Information Gathering
+- SauronEye: Herramienta de búsqueda para encontrar archivos específicos que contengan palabras específicas, es decir, archivos que contengan contraseñas
+- ProjectOpal: Post-Exploitation Framework para Wordpress
+- XSS-LOADER: Es una herramienta para ataques Cross-site scripting (XSS). Generador de Payload XSS, Escáner XSS y Buscador Dork XSS
+- Tweetshell: Multi-thread Twitter BruteForcer In Shell Script
+- cSploit: kit de herramientas de seguridad más avanzado y completo para Android OS. Esta herramienta enumera hosts locales, encuentra vulnerabilidades y sus respectivos exploits, cuenta con un módulo de instalación de backdoor, entre otras características. El aprendizaje de esta herramienta forma parte del curso de hacking ético del IICS, funciona sólo con dispositivos rooteados
+- Orbot: Orbot es una aplicación gratuita creada por el proyecto Guardian pensada para incrementar el anonimato en la red de un equipo Android. Acorde a los especialistas en hacking ético del Instituto Internacional de Seguridad Cibernética (IICS), esta es una herramienta muy útil para los activistas o usuarios regulares de dark web, funciona en dispositivos no rooteados
+- Netcut: Es una herramienta que trabaja con las redes WiFi. Desconectará a todos los usuarios y le dará acceso a Internet WiFi completo para navegar. El Instituto Internacional de Seguridad Cibernética (IICS) también demostró los conceptos internos de esta aplicación en sus clases de hacking ético y es la mejor herramienta para administradores de red, funciona sólo con dispositivos rooteados.
+- Qualys: Analizador de la seguridad de SSL
+- Havij: Herramienta para ataques SQLi
+- Acunetix: Es un escáner de seguridad web de extremo a extremo que ofrece una vista de 360º de la seguridad de una organización.
+- EvilDLL: Es una herramienta que nos facilitará la creación de DLLs maliciosas para obtener nuestra shell reversa en caso de que hayamos podido explotar un DLL hijacking. Además tendremos la opción de crear esa shell mediante un reenvío de puertos directo a nuestra máquina o mediante un túnel con ngrok.
+- Slingshot C2 Matrix: Una VM que incluye un arsenal de frameworks de C&C
+- WES (Windows Exploit Suggester): Es una herramienta basada en la salida de la utilidad systeminfo de Windows que proporciona la lista de vulnerabilidades a las que el sistema operativo es vulnerable, incluyendo cualquier explotación de estas vulnerabilidades. Todos los sistemas operativos de Windows entre Windows XP y Windows 10, incluyendo sus contrapartes de Windows Server, son compatibles.
+- Tbomb: Es un script de código abierto para Linux y Termux que permite hacer un ataque de SMS falsos o bombardeo de mensajes y también llamadas.
+- Onex: Es un instalador de herramientas de hackeo y administrador de paquetes para hackers. Onex es una biblioteca de todas las herramientas Hacking para Termux y otras distribuciones de Linux. onex puede instalar cualquier herramienta de terceros o cualquier herramienta de hacking para ti.
+- PhantomDoor: Es una herramienta escrita en Python que nos permite obtener un sesión meterpreter para Windows, Linux, macOS, Android y web; incrustando un backdoor.
+- Instashell: Es un script para realizar ataque de fuerza bruta a la plataforma de Instagram sin límite de contraseña (Multi-hilo)
+- HTTrack: Scraper que viene incluido en Kali Linux y que nos permite descargar una página web para navegar offline por ella.
+- MessageHeader: Analizador de cabeceras de correo para analisis de inoformación.
+- ArchiveFuzz: Busca los datos archivados (subdominios/correos electrónicos/claves API) de los dominios. El archivo web (Webarchive) es el proceso de recopilar partes de la World Wide Web (WWW) para garantizar que la información se conserve en un archivo para futuros investigadores, historiadores y el público.
+- XploitSPY: Es una herramienta de monitoreo/espionaje de Android. Logras un control remoto al dispositivo para acceder a Mensajes, Llamadas, Archivos, etc.
+- SocialSploit: Es un framework de phishing creado para hackear cuentas sociales como Facebook, Instagram, Paypal, entre otros; utilizando ngrok y serveo.
+- ArchiveFuzz busca los datos archivados (subdominios/correos electrónicos/claves API) de los dominios. El archivo web (Webarchive) es el proceso de recopilar partes de la World Wide Web (WWW) para garantizar que la información se conserve en un archivo para futuros investigadores, historiadores y el público.
+- githubFind3r: Buscador interactivo para buscar herramientas en GitHub, por autor, tipo, proposito...
+- Nullscan: A Modular Framework Designed To Chain And Automate Security Tests
+- Adamantium-Thief: Permite obtener información de navegadores: contraseñas, tarjetas de crédito, historial, cookies, marcadores.
+- PrivescCheck: Enumeración de Escalada de Privilegios para Windows
+- Fsociety Tool: Es un paquete de herramientas de hacking, un kit de pruebas de penetración que contiene todas las herramientas que necesita un hacker.
+- SayHello: Es un script en Bash que permite capturar audio (.wav) del objetivo/víctima usando un enlace generado por ngrok o serveo.
+- MailDiya: Es un script que permite utilizar un remitente anónimo de correo electrónico y bombardear emails.
+- RedRabbit: Es una herramienta utilizada para recolectar información, puede ser empleada por #RedTeam para el hacking ético. RedRabbit cuenta con múltiples opciones (Reconocimiento rápido, Subred de escaneo, Registrador del portapapeles, Escáner de red, Resolver DNS, Brute Force ZIP, Brute WinRM, Prueba de conexión de extracción y mostrar reglas locales de rechazo de firewall).
+- Impulse: Es un kit de herramientas moderno de denegación de servicio (Denial-of-service, DoS) disponible para Windows, Linux/Termux.
+- SayCheese: Es un script que permite tomar fotos a través de la cámara web del objetivo/víctima usando un enlace generado por ngrok o serveo.
+- Mega-Bot: Es un script para scanner & auto exploiter. Conjunto de herramientas hacking todo en uno. Fuerza bruta, Filters, Bot, etc.
+- TorghostNG: Make All Your Internet Traffic Anonymized Through Tor Network.
+- Synapsint.com: Es una herramienta gratuita que permite recolectar la información de un objetivo haciendo uso de fuentes abiertas (OSINT) y las ordena de una manera visualmente agradable y legible para el investigador.
+- Nexphisher: Advanced Phishing Tool For Linux & Termux
+- Brutegram: Es una herramienta para fuerza bruta de múltiples formas en Instagram con tan solo indicar un usuario o etiqueta hashtag.
+- Synapsint.com: Web gratuita que permite recolectar la información de un objetivo haciendo uso de fuentes abiertas y las ordena de una manera visualmente agradable y legible para el investigador.
+- RBust: Es una herramienta de fuerza bruta de directorios (Fuzzing URL)
+- Evilreg: Es uns shell inversa que utiliza archivos de registro de Windows (.reg). La víctima confirma la ejecución de dicho archivo y obtenemos una conexión remota.
+- Lockphish: Es la primera herramienta para ataques de phishing en la pantalla de bloqueo, diseñada para obtener las credenciales de Windows, el PIN de Android y el código de acceso de iPhone mediante un enlace HTTPS.
+- mSpy: Herramienta de pago para hackear whatsapp, otra --> Flexispy
+- Temp-Mail: Sitio web que te permite obtener un correo electronico falso y temporal para pruebas o para registrarse en sitios sin tener que usar uno real.
+- Ngrok: Servicio que permite que dispositivos de fuera de tu LAN local se conecten a ti.
+- Whapa: Es un conjunto de herramientas gráficas forenses para analizar WhatsApp en Android. Todas las herramientas se han escrito en Python 3.X y se han probado en sistemas Linux y Windows 10.
+- SUDOMY: Enumeración de Subdominios y Análisis.
+- PHOTON: Rastreador Rápido Diseñado para OSINT
+- Inshackle: Instagram Hacks Track Unfollowers, Increase Your Followers, Download Stories, Etc
+- Spyic: Esta aplicación puede hacer mucho más que hackear WhatsApp. En primer lugar, es una aplicación líder a nivel global que puede espiar llamadas, mensajes, la ubicación GPS, el historial del navegador web y la actividad en redes sociales. En el apartado de redes sociales es donde puedes ver las conversaciones del WhatsApp.
+- URLCADIZ: Es un script simple para generar una URL oculta para la ingeniería social. El script está basado en Python y usa la librería pyshorteners.
+- Sifter: Es un escáner OSINT, de reconocimiento y vulnerabilidad. Combina una gran cantidad de herramientas dentro de diferentes conjuntos de módulos para realizar rápidamente tareas de reconocimiento, verificar el firewall de la red, enumerar hosts remotos y locales y escanear en busca de vulnerabilidades ‘azules’ dentro de Microsoft y, si no están parcheadas, explotarlas. Utiliza herramientas como blackwidow y konan para la enumeración webdir y el mapeo de superficie de ataque rápidamente utilizando ASM.
+- EvilNet: Es una herramienta para ataque a redes, específicamente a nivel de capa 2: Inundación MAC, Salto de VLAN o un ataque ARP. Adicionalmente contiene un módulo para ataque WiFi.
+- Socialscan: Verifica disponibilidad de Email y Usuario en redes Sociales
+- WiFi Passview: Recuperar Contraseñas WiFi Windows
+- Spyse: Buscador tipo shodan, con un enfoque mas profundo y destinado hacia ejercicios de red team.
+- EasyDoH: Herramienta para detectar sitios web maliciosos
+- dazzleUP: Detectar Vulnerabilidades en Windows
+- Seeker: Cómo geolocalizar dispositivos
+- SPY: Es un tipo de troyano que toma una captura de pantalla, una foto de la cámara web, una grabación de voz del micrófono de la víctima y envía estos archivos por correo electrónico al atacante.
+- ADB-Toolkit: Herramienta de Pentesting para Android
+- Invoke-WordThief: Es una herramienta que se compone de un script en powershell que conecta con un servidor TCP implementado en python y que monitoriza los documentos de Microsoft Word activos (.doc, .docx, etc.) para extraer/ex-filtrar sus textos.
+- V3n0M-Scanner: Escáner Pentesting para SQLi/XSS/LFI/RFI y Más
+- DeadTrap: OSINT sobre Propietario de un Número de Teléfono
+- Netenum: Reconocimiento de Red que busca Hosts Activos
+- NERO: Completo Servidor HTTP para Phishing
+- HackTools: Is a web extension facilitating your web application penetration tests, it includes cheat sheets as well as all the tools used during a test such as XSS payloads, Reverse shells and much more. [https://www.hacking.land/2020/08/hack-tools-all-in-one-red-team.html](https://www.hacking.land/2020/08/hack-tools-all-in-one-red-team.html)
+- Osintgram: OSINT Tool for Instagram
+- MobSF: Framework de Seguridad Móvil Todo en Uno
+- Kalel: Es una herramienta para pruebas de estrés (Stress Test) de la red y un juego de herramientas de prueba de penetración (pentesting)
+- Python-Backdoor: Indetectable backdoor/reverse shell/RAT para Windows hecho en Python 3 que contiene muchas características como soporte multicliente y servidor multiplataforma.
+- Gray Fish: Páginas de Phishing Totalmente Indetectables
+- Subfinder: Discover Hidden Subdomains on Any Website
+- Wacker: Un Diccionario de Cracking WPA3
+- Jackdaw: Recopilación de Información para un Dominio
+- Android-PIN-Bruteforce: Desbloquear Teléfono Mediante Fuerza Bruta
+- URLCrazy: Es una herramienta de OSINT para generar y probar errores tipográficos o variaciones de dominio para detectar o realizar errores tipográficos, secuestro de URL, phishing y espionaje corporativo.
+- KitHack: Paquete Herramientas Hacking y Generador Backdoors
+- Mail-Swipe: Crear Direcciones E-Mail Temporales y Recibir Correos
+- The Operative Framework: Is a powerful Python-based open-source intelligence (OSINT) tool that can be used to find domains registered by the same email address, as well as many other investigative functions. This reconnaissance tool provides insight about your target through examining relationships in the domains they own.
+- Evil-Trust: Herramienta creada por s4vitar ideal para el despliegue automatizado de un Rogue AP
+- osi.ig: Una herramienta open source mediante la que obtener información de perfiles de Instagram sin necesidad de disponer una cuenta en esta red social. Mediante esta herramienta se puede obtener información de un perfil, tanto público como privado y de sus últimas imágenes publicadas
+- DDoS-Ripper: Ataque DDoS en Python 3
+- WPSeku: Is a black box WordPress vulnerability scanner that can be used to scan remote WordPress installations to find security issues.
+- Wifi-Confusion: Crear puntos de Acceso WiFi falsos para confundir a la víctima
+- SearchOrg: script para obtener información de empresas mediante su dominio
+- Phantom-evasion: Encoder de payloads muy recomendable
+- Maigret: Recopilar Expediente de Persona por Nombre de Usuario
+- BigBountyRecon: 58 Técnicas diferentes de recolección de información
+- jSQL Injection: Inyección Automática de Bases de Datos SQL
+- RadareEye: Escanear Dispositivos Cercanos y Ejecutar Comandos
+- STEGBRUTE: Fuerza Bruta de Esteganografía útil para CTF
+- Invoker: Utilidad Pruebas de Penetración para Windows. El objetivo es utilizar esta herramienta cuando el acceso a algunas características del sistema operativo Windows a través de la GUI está restringido.
+- MapEye: Localizador GPS Preciso (Télefonos Android, IOS, Windows)
+- APK Infector: Incrustar APK de Meterpreter a cualquier APK Legítimo
+- Wordlister: Es un simple generador de listas de palabras y gestor escrito en Python.
+- ShellShockHunter: Herramienta para Probar Vulnerabilidad Shellshock
+- Airgeddon: software para realizar auditoría de redes inalámbricas.
+- AltDNS: herramienta para generar alteraciones y mutaciones de subdominios y luego intenta resolverlos.
+- Arjun: suite hacking para el descubrimiento de parámetros HTTP.
+- Chisel: un túnel TCP/UDP muy rápido que funciona a través de HTTP.
+- DNSGen: permite generar una combinación de nombres de dominio a partir de una entrada proporcionada.
+- DumpsterDiver: nos ayuda a buscar secretos e información oculta en distintos tipos de archivos.
+- GetAllUrls: permite obtener URL conocidas de Open Threat Exchange, Wayback Machine y Common Crawl
+- GitLeaks: herramienta para buscar secretos y claves en Git.
+- HTTProbe: nos devuelve una lista de dominios y permite probar que los servidores HTTP y HTTPS estén en funcionamiento.
+- MassDNS: un DNS de alto rendimiento para búsquedas masivas y reconocimiento.
+- PSKracker: kit de herramientas WPA/WPS para generar claves predeterminadas.
+- WordlistRaider: software para la preparación de listas de palabras existentes.
+- Search-That-Hash: Descifrar Hash Rápidamente (APIs+HashCat)
+- FakeImageExploiter: Una herramienta para incrustar cargas útiles en archivos de imagen. Esta herramienta permite tomar un archivo image.jpg existente y un archivo payload.exe para crear una nueva carga útil (agent.jpg.exe) que, cuando se inicia, se descarga de los 2 archivos anteriores almacenados en un servidor web apache2 (.jpg + payload.exe).
+- CrimeFlare: Esta herramienta te puede ayudar a ver el verdadero IP detrás de sitios web protegidos de CloudFlare.
+- Holehe: Analiza si un correo es usado en diferentes sitios y obtén información ampliada para el análisis que realices.
+- Mapache: Una herramienta de seguridad ofensiva de alto rendimiento para escaneos, reconocimiento y búsquedas de información para completar análisis.
+- Subcert: Una herramienta útil para un análisis que encuentra todos los subdominios de un sitio.
+- Tcping: Permite realizar ping a una maquina Windows aunque esta tenga bloqueda la respuesta a paquetes icmp (ping)
+- FFUF: Una Guía Completa de Uso para Fuzzing Web
+- Toutatis: Extraer Información de Cuentas de Instagram
+- Anon-SMS: Herramienta para Enviar SMS de Forma Anónima
+- WebADB: Controlar tu Smartphone a través de ADB desde el Navegador
+- mSpy: Espiar el Teléfono de Alguien sin que Ellos lo Sepan
+- Anon-SMS: Herramienta para Enviar SMS de Forma Anónima
+- Profil3r: OSINT para Encontrar Cuentas y Correos Vulnerados
+- Net-Creds: Esta es una herramienta de Python para la recopilación de contraseñas y hashes, así como otros datos relevantes para el análisis de vulnerabilidades internas. Net-Creds es ideal para un rápido análisis de grandes volúmenes de tráfico durante ataques Man-in-The-Middle (MiTM), por ejemplo.
+- Gateway_finder: Este es un script de Python que ayuda a identificar posibles gateways en la red. Acorde a los expertos en análisis de vulnerabilidades internas, esta herramienta es ideal para verificar la segmentación o encontrar hosts que puedan enrutar a una subred o Internet deseada. Gateway_finder también es muy adecuado para pruebas de penetración interna cuando necesita verificar rápidamente rutas no autorizadas o rutas a otras redes locales internas.
+- MetaFinder: Búsqueda de Metadatos en Motores de Búsqueda
+- Karkinos: Navaja Suiza para Pentesting y CTF Hacking
+- DNSExplorer: Script Bash para Enumerar Dominios y Servidores DNS
+- SubDomainizer: Encontrar Subdominios y Secretos Interesantes
+- pyWhat: Identificar Cualquier Cosa, Emails, Dirección IP y Más
+- BiG Brother: Encontrar Cámaras de Videovigilancia en todo el mundo
+- Phomber: Es una herramienta de recopilación de información que busca números de teléfono de forma inversa y obtiene sus detalles. Utiliza la API de OpenCage para encontrar todos los detalles asociados al número de teléfono, como el propietario del número de teléfono (?), el proveedor de servicios (SÍ), la ubicación (coordenadas) y alguna otra información útil.
+- CamPhish: Capturar Fotos de Cámara del Objetivo Enviando un Enlace
+- Sub3Suite: Is a research-grade suite of tools for Subdomain Enumeration, OSINT Information gathering & Attack Surface Mapping. Supports both manual and automated analysis on variety of target types with many available features & tools
+- PDFiD: Es un componente de Didier Stevens Suite capaz de escanear documentos PDF usando una lista de cadenas para detectar elementos JavaScript, archivos incrustados, acciones al abrir archivos y conteo de líneas específicas en un documento. [https://noticiasseguridad.com/tutoriales/como-realizar-informatica-forense-en-archivos-pdf-maliciosos-revisa-si-este-pdf-contiene-malware-o-backdoors/](https://noticiasseguridad.com/tutoriales/como-realizar-informatica-forense-en-archivos-pdf-maliciosos-revisa-si-este-pdf-contiene-malware-o-backdoors/)
+- Fake Name Generator: Permite generar un perfil aleatorio/falso con numerosos datos --> https://es.fakenamegenerator.com/advanced.php
+- TinEye: Es un buscador específico de imágenes, donde también se puede buscar por imagen o realizar la búsqueda de imagen inversa, cargando una imagen o buscando por URL. También permite simplemente arrastrar y soltar las imágenes para comenzar su búsqueda.
+- Socialhunter: crawls the website and finds broken social media links that can be hijacked
+- Project iKy: Is a tool that collects information from an email and shows results in a nice visual interface.
+- Lazy: This is a script for Kali Linux that automates many procedures about wifi penetration and hacking.
+- OSINTGRAM: es una herramienta creada por Datalux, la cual permite obtener información sobre el usuario que queramos de Instagram (siempre y cuando su cuenta sea pública o ya le estemos siguiendo previamente). Esta herramienta puede realizar diversas funciones, como por ejemplo: obtener los correos y números de los usuarios a los que sigue la cuenta, descargar la foto de perfil y stories de la cuenta, obtener la localización de los posts, etc.
+- UmbrellaCorporation: Repositorio basado de la película Resident evil en el cual trae diferentes tipos de Virus --> https://github.com/Monkey-hk4/UmbrellaCorporation
+- Brutex: This tool is basically made to make the work of penetration tester easier. This tool is a package of three different tools which are Nmap, Hydra, DNSenum.
+- linWinPwn: Active Directory Vulnerability Scanner
+- cloudflare-origin-ip: Try to find the origin IP of a webapp protected by Cloudflare.
+- r4ven: The tool hosts a fake website which uses an iframe to display a legit website and, if the target allows it, it will fetch the GPS location (latitude and longitude) of the target along with IP Address and Device Information.
+- symbiote: Your target's phone's front and back cameras can be accessed by sending a link.
+- fakeSMS: A small and efficent script to send SMS all over the world anonymously
+- RustScan: Escáner de puertos moderno
+- naabu: Un rápido escáner de puertos escrito en go con foco en la confiabilidad y simplicidad.
+- sandmap: Nmap con esteroides. CLI simple con la capacidad de ejecutar Nmapengine puro, 31 módulos con 459 perfiles de escaneo
+- ScanCannon: Combina la velocidad de masscan con la fiabilidad y la enumeración detallada de nmap
+- EyeWitness: está diseñado para realizar capturas de pantalla de sitios web, proporcionar información sobre el encabezado del servidor e identificar credenciales predeterminadas si es posible.
+- aquatone: Es una herramienta para la inspección visual de sitios web a través de una gran cantidad de hosts y es conveniente para obtener rápidamente una visión general de la superficie de ataque basado en HTTP.
+- screenshoteer: Hacer capturas de pantalla de sitios web y emulaciones móvilesdesde la línea de comandos.
+- gowitness: Una utilidad golang de captura de pantalla web que utiliza ChromeHeadless.
+- WitnessMe: Herramienta de inventario web, realiza capturas de pantalla de páginas web utilizando Pyppeteer (Chrome/Chromium headless) y proporciona algunas campanas y silbatos adicionales para hacer la vida más fácil.
+- eyeballer: Red neuronal convolucional para analizar capturas de pantalla de pentests.
+- scrying: Una herramienta para recopilar capturas de pantalla RDP, web y VNC en un solo lugar
+- Depix: Recupera contraseñas a partir de capturas de pantalla pixeladas
+- httpscreenshot: HTTPScreenshot es una herramienta para realizar capturas de pantalla y HTML de un gran número de sitios web.
+- Furious: Scanner escrito en Go muy veloz.
+- emkei.cz: Esta página permite crear direcciones de correo electrónico FALSAS, lo que podría ser utilizado por ciberdelincuentes para realizar ataques de phishing.
+
+### Penetration Testing Resources ###
+
+    Metasploit Unleashed – Free Offensive Security Metasploit course.
+    Penetration Testing Execution Standard (PTES) – Documentation designed to provide a common language and scope for performing and reporting the results of a penetration test.
+    Open Web Application Security Project (OWASP) – Worldwide not-for-profit charitable organization focused on improving the security of especially Web-based and Application-layer software.
+    PENTEST-WIKI – Free online security knowledge library for pentesters and researchers.
+    Penetration Testing Framework (PTF) – Outline for performing penetration tests compiled as a general framework usable by vulnerability analysts and penetration testers alike.
+    XSS-Payloads – Ultimate resource for all things cross-site including payloads, tools, games and documentation.
+    Open Source Security Testing Methodology Manual (OSSTMM) – Framework for providing test cases that result in verified facts on which to base decisions that impact an organization’s security.
+    MITRE’s Adversarial Tactics, Techniques & Common Knowledge (ATT&CK) – Curated knowledge base and model for cyber adversary behavior.
+
+### Exploit Development ###
+
+    Shellcode Tutorial – Tutorial on how to write shellcode.
+    Shellcode Examples – Shellcodes database.
+    Exploit Writing Tutorials – Tutorials on how to develop exploits.
+
+### OSINT Resources ###
+
+    OSINT Framework – Collection of various OSINT Hacking Tools broken out by category.
+    Intel Techniques – Collection of OSINT tools. Menu on the left can be used to navigate through the categories.
+    NetBootcamp OSINT Tools – Collection of OSINT links and custom Web interfaces to other services such as Facebook Graph Search and various paste sites.
+    WiGLE.net – Information about wireless networks world-wide, with user-friendly desktop and web applications.
+
+### Social Engineering Resources ###
+
+    Social Engineering Framework – Information resource for social engineers.
+
+### Lock Picking Resources ###
+
+    Schuyler Towne channel – Lockpicking videos and security talks.
+    bosnianbill – More lockpicking videos.
+    /r/lockpicking – Resources for learning lockpicking, equipment recommendations.
+
+### Operating Systems ###
+
+    Security related Operating Systems @ Rawsec – Penetration testing tools & Hacking Tools  list Related Complete list of security operating systems.
+    Best Linux Penetration Testing Distributions @ CyberPunk – Description of main penetration testing distributions.
+    Security @ Distrowatch – Website dedicated to talking about, reviewing, and keeping up to date with open source operating systems.
+    cuckoo – Open source automated malware analysis system.
+    Computer Aided Investigative Environment (CAINE) – Italian GNU/Linux live distribution created as a digital forensics project.
+    Digital Evidence & Forensics Toolkit (DEFT) – Live CD for forensic analysis runnable without tampering or corrupting connected devices where the boot process takes place.
+    Tails – Live OS aimed at preserving privacy and anonymity.
+    
+### Docker for Penetration Testing ###
+
+    docker pull kalilinux/kali-linux-docker official Kali Linux
+    docker pull owasp/zap2docker-stable – official OWASP ZAP
+    docker pull wpscanteam/wpscan – official WPScan
+    docker pull citizenstig/dvwa – Damn Vulnerable Web Application (DVWA)
+    docker pull wpscanteam/vulnerablewordpress – Vulnerable WordPress Installation
+    docker pull hmlio/vaas-cve-2014-6271 – Vulnerability as a service: Shellshock
+    docker pull hmlio/vaas-cve-2014-0160 – Vulnerability as a service: Heartbleed
+    docker pull opendns/security-ninjas – Security Ninjas
+    docker pull diogomonica/docker-bench-security – Docker Bench for Security
+    docker pull ismisepaul/securityshepherd – OWASP Security Shepherd
+    docker pull danmx/docker-owasp-webgoat – OWASP WebGoat Project docker image
+    docker-compose build && docker-compose up – OWASP NodeGoat
+    docker pull citizenstig/nowasp – OWASP Mutillidae II Web Pen-Test Practice Application
+    docker pull bkimminich/juice-shop – OWASP Juice Shop
+    docker pull kalilinux/kali-linux-docker – Kali Linux Docker Image
+    docker pull phocean/msf – docker-metasploit
+
+### Multi-paradigm Frameworks ###
+
+    Metasploit – post exploitaion Hacking Tools for offensive security teams to help verify vulnerabilities and manage security assessments.
+    Armitage – Java-based GUI front-end for the Metasploit Framework.
+    Faraday – Multiuser integrated pentesting environment for red teams performing cooperative penetration tests, security audits, and risk assessments.
+    ExploitPack – Graphical tool for automating penetration tests that ships with many pre-packaged exploits.
+    Pupy – Cross-platform (Windows, Linux, macOS, Android) remote administration and post-exploitation tool,
+
+### Vulnerability Scanners ###
+
+    Nexpose – Commercial vulnerability and risk management assessment engine that integrates with Metasploit, sold by Rapid7.
+    Nessus – Commercial vulnerability management, configuration, and compliance assessment platform, sold by Tenable.
+    OpenVAS – Free software implementation of the popular Nessus vulnerability assessment system.
+    Vuls – Agentless vulnerability scanner for GNU/Linux and FreeBSD, written in Go.
+    httpX - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+    Struts-Scan - Struts2 vulnerability detection and utilization tools.
+    W3af - Web application attack and audit framework, the open source web vulnerability scanner.
+    Archery - Open Source Vulnerability Assessment and Management helps developers and pentesters to perform scans and manage vulnerabilities.
+    Taipan - Web application vulnerability scanner.
+    Arachni - Web Application Security Scanner Framework.
+    Nuclei - Fast and customizable vulnerability scanner based on simple YAML based DSL.
+    Xray - A passive-vulnerability-scanner Tool.
+    Super-Xray - Web Vulnerability Scanner XRAY GUI Starter.
+    SiteScan - AllinOne Website Information Gathering Tools for pentest.
+    Banli - High-risk asset identification and high-risk vulnerability scanner.
+    vscan - Open Source Vulnerability Scanner.
+    Wapiti - Web vulnerability scanner written in Python3.
+    Scaninfo - fast scan for redtools.
+    osv-scanner - Vulnerability scanner written in Go.
+    Afrog - A Vulnerability Scanning Tools For Penetration Testing.
+
+
+
+### AI Tools ###
+
+    ChatGPT
+    Perplexity
+    Abacus
+    PixVerse
+    Kling AI
+    Sora (ChatGPT)
+    Gemini
+    Leonardo.AI
+    Gamma AI
+    Media.io
+    OmniHuman
+    Magnus AI
+    Qwen3
+    Suno.ai
+    relume.io
+    fliki.ai
+    lightpdf.com
+    MakeReels.ai
+    Decktopus
+    Slides.AI
+    BuilderBot
+
+### Static Analyzers ###
+
+    Brakeman – Static analysis security vulnerability scanner for Ruby on Rails applications.
+    cppcheck – Extensible C/C++ static analyzer focused on finding bugs.
+    FindBugs – Free software static analyzer to look for bugs in Java code.
+    sobelow – Security-focused static analysis for the Phoenix Framework.
+    bandit – Security oriented static analyser for python code.
+
+### Web Scanners ### 
+
+    Nikto – Noisy but fast black box web server and web application vulnerability scanner.
+    Arachni – Scriptable framework for evaluating the security of web applications.
+    w3af – Hacking Tools for Web application attack and audit framework.
+    Wapiti – Black box web application vulnerability scanner with built-in fuzzer.
+    SecApps – In-browser web application security testing suite.
+    WebReaver – Commercial, graphical web application vulnerability scanner designed for macOS.
+    WPScan – Hacking Tools of Black box WordPress vulnerability scanner.
+    cms-explorer – Reveal the specific modules, plugins, components and themes that various websites powered by content management systems are running.
+    joomscan – on of the best Hacking Tools for Joomla vulnerability scanner.
+    ACSTIS – Automated client-side template injection (sandbox escape/bypass) detection for AngularJS.
+
+### Network Tools ###
+
+    zmap – Open source network scanner that enables researchers to easily perform Internet-wide network studies.
+    nmap – Free security scanner for network exploration & security audits.
+    pig – one of the Hacking Tools forGNU/Linux packet crafting .
+    scanless – Utility for using websites to perform port scans on your behalf so as not to reveal your own IP.
+    tcpdump/libpcap – Common packet analyzer that runs under the command line.
+    Wireshark – Widely-used graphical, cross-platform network protocol analyzer.
+    Network-Tools.com – Website offering an interface to numerous basic network utilities like ping, traceroute, whois, and more.
+    netsniff-ng – Swiss army knife for for network sniffing.
+    Intercepter-NG – Multifunctional network toolkit.
+    SPARTA – Graphical interface offering scriptable, configurable access to existing network infrastructure scanning and enumeration tools.
+    dnschef – Highly configurable DNS proxy for pentesters.
+    DNSDumpster – one of the Hacking Tools for Online DNS recon and search service.
+    CloudFail – Unmask server IP addresses hidden behind Cloudflare by searching old database records and detecting misconfigured DNS.
+    dnsenum – Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
+    dnsmap – One of the Hacking Tools for Passive DNS network mapper.
+    dnsrecon – One of the Hacking Tools for DNS enumeration script.
+    dnstracer – Determines where a given DNS server gets its information from, and follows the chain of DNS servers.
+    passivedns-client – Library and query tool for querying several passive DNS providers.
+    passivedns – Network sniffer that logs all DNS server replies for use in a passive DNS setup.
+    Mass Scan – best Hacking Tools for TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+    Zarp – Network attack tool centered around the exploitation of local networks.
+    mitmproxy – Interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+    Morpheus – Automated ettercap TCP/IP Hacking Tools .
+    mallory – HTTP/HTTPS proxy over SSH.
+    SSH MITM – Intercept SSH connections with a proxy; all plaintext passwords and sessions are logged to disk.
+    Netzob – Reverse engineering, traffic generation and fuzzing of communication protocols.
+    DET – Proof of concept to perform data exfiltration using either single or multiple channel(s) at the same time.
+    pwnat – Punches holes in firewalls and NATs.
+    dsniff – Collection of tools for network auditing and pentesting.
+    tgcd – Simple Unix network utility to extend the accessibility of TCP/IP based network services beyond firewalls.
+    smbmap – Handy SMB enumeration tool.
+    scapy – Python-based interactive packet manipulation program & library.
+    Dshell – Network forensic analysis framework.
+    Debookee – Simple and powerful network traffic analyzer for macOS.
+    Dripcap – Caffeinated packet analyzer.
+    Printer Exploitation Toolkit (PRET) – Tool for printer security testing capable of IP and USB connectivity, fuzzing, and exploitation of PostScript, PJL, and PCL printer language features.
+    Praeda – Automated multi-function printer data harvester for gathering usable data during security assessments.
+    routersploit – Open source exploitation framework similar to Metasploit but dedicated to embedded devices.
+    evilgrade – Modular framework to take advantage of poor upgrade implementations by injecting fake updates.
+    XRay – Network (sub)domain discovery and reconnaissance automation tool.
+    Ettercap – Comprehensive, mature suite for machine-in-the-middle attacks.
+    BetterCAP – Modular, portable and easily extensible MITM framework.
+    CrackMapExec – A swiss army knife for pentesting networks.
+    impacket – A collection of Python classes for working with network protocols.
+
+### Wireless Network Hacking Tools ###
+
+    Aircrack-ng – Set of Penetration testing & Hacking Tools list for auditing wireless networks.
+    Kismet – Wireless network detector, sniffer, and IDS.
+    Reaver – Brute force attack against WiFi Protected Setup.
+    Wifite – Automated wireless attack tool.
+    Fluxion – Suite of automated social engineering based WPA attacks.
+
+### Transport Layer Security Tools ###
+
+    SSLyze – Fast and comprehensive TLS/SSL configuration analyzer to help identify security mis-configurations.
+    tls_prober – Fingerprint a server’s SSL/TLS implementation.
+    testssl.sh – Command line tool which checks a server’s service on any port for the support of TLS/SSL ciphers, protocols as well as some cryptographic flaws.
+
+### Web Exploitation ###
+
+    OWASP Zed Attack Proxy (ZAP) – Feature-rich, scriptable HTTP intercepting proxy and fuzzer for penetration testing web applications.
+    Fiddler – Free cross-platform web debugging proxy with user-friendly companion tools.
+    Burp Suite – One of the Hacking Tools ntegrated platform for performing security testing of web applications.
+    autochrome – Easy to install a test browser with all the appropriate setting needed for web application testing with native Burp support, from NCCGroup.
+    Browser Exploitation Framework (BeEF) – Command and control server for delivering exploits to commandeered Web browsers.
+    Offensive Web Testing Framework (OWTF) – Python-based framework for pentesting Web applications based on the OWASP Testing Guide.
+    WordPress Exploit Framework – Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.
+    WPSploit – Exploit WordPress-powered websites with Metasploit.
+    SQLmap – Automatic SQL injection and database takeover tool.
+    tplmap – Automatic server-side template injection and Web server takeover Hacking Tools .
+    weevely3 – Weaponized web shell.
+    Wappalyzer – Wappalyzer uncovers the technologies used on websites.
+    WhatWeb – Website fingerprinter.
+    BlindElephant – Web application fingerprinter.
+    wafw00f – Identifies and fingerprints Web Application Firewall (WAF) products.
+    fimap – Find, prepare, audit, exploit and even Google automatically for LFI/RFI bugs.
+    Kadabra – Automatic LFI exploiter and scanner.
+    Kadimus – LFI scan and exploit tool.
+    liffy – LFI exploitation tool.
+    Commix – Automated all-in-one operating system command injection and exploitation tool.
+    DVCS Ripper – Rip web accessible (distributed) version control systems: SVN/GIT/HG/BZR.
+    GitTools – One of the Hacking Tools that Automatically find and download Web-accessible .git repositories.
+    sslstrip –
+    One of the Hacking Tools Demonstration of the HTTPS stripping attacks.
+    sslstrip2 – SSLStrip version to defeat HSTS.
+    NoSQLmap – Automatic NoSQL injection and database takeover tool.
+    VHostScan – A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
+    FuzzDB – Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
+    EyeWitness – Tool to take screenshots of websites, provide some server header info, and identify default credentials if possible.
+    webscreenshot – A simple script to take screenshots of list of websites.
+
+### Hex Editors ###
+
+    HexEdit.js – Browser-based hex editing.
+    Hexinator – World’s finest (proprietary, commercial) Hex Editor.
+    Frhed – Binary file editor for Windows.
+    0xED – Native macOS hex editor that supports plug-ins to display custom data types.
+
+### File Format Analysis Tools ###
+
+    Kaitai Struct – File formats and network protocols dissection language and web IDE, generating parsers in C++, C#, Java, JavaScript, Perl, PHP, Python, Ruby.
+    Veles – Binary data visualization and analysis tool.
+    Hachoir – Python library to view and edit a binary stream as tree of fields and tools for metadata extraction.
+
+### Defense Evasion Tools ###
+
+    Veil – Generate metasploit payloads that bypass common anti-virus solutions.
+    shellsploit – Generates custom shellcode, backdoors, injectors, optionally obfuscates every byte via encoders.
+    Hyperion – Runtime encryptor for 32-bit portable executables (“PE .exes”).
+    AntiVirus Evasion Tool (AVET) – Post-process exploits containing executable files targeted for Windows machines to avoid being recognized by antivirus software.
+    peCloak.py – Automates the process of hiding a malicious Windows executable from antivirus (AV) detection.
+    peCloakCapstone – Multi-platform fork of the peCloak.py automated malware antivirus evasion tool.
+    UniByAv – Simple obfuscator that takes raw shellcode and generates Anti-Virus friendly executables by using a brute-forcable, 32-bit XOR key.
+    EDRSandBlast ==> https://lnkd.in/e8g8zYFT
+    SPAWN – Cobalt Strike BOF ==> https://lnkd.in/e223PbqZ
+    NetLoader ==> https://lnkd.in/ef5wCD4y
+    KillDefenderBOF ==> https://lnkd.in/eVd54HUp
+
+### Hash Cracking Hacking Tools ###
+
+    John the Ripper – One of the best Hacking Tools for Fast password cracker.
+    Hashcat – Another One of the Hacking Tools The more fast hash cracker.
+    CeWL – Generates custom wordlists by spidering a target’s website and collecting unique words.
+    JWT Cracker – Simple HS256 JWT token brute force cracker.
+    Rar Crack – RAR bruteforce cracker.
+    BruteForce Wallet – Find the password of an encrypted wallet file (i.e. wallet.dat).
+
+### Windows Utilities ###
+
+    Sysinternals Suite – The Sysinternals Troubleshooting Utilities.
+    Windows Credentials Editor – Inspect logon sessions and add, change, list, and delete associated credentials, including Kerberos tickets.
+    mimikatz – Credentials extraction tool for Windows operating system.
+    PowerSploit – PowerShell Post-Exploitation Framework.
+    Windows Exploit Suggester – Detects potential missing patches on the target.
+    Responder – LLMNR, NBT-NS and MDNS poisoner.
+    Bloodhound – Graphical Active Directory trust relationship explorer.
+    Empire – Pure PowerShell post-exploitation agent.
+    Fibratus – Tool for exploration and tracing of the Windows kernel.
+    wePWNise – Generates architecture independent VBA code to be used in Office documents or templates and automates bypassing application control and exploit mitigation software.
+    redsnarf – Post-exploitation tool for retrieving password hashes and credentials from Windows workstations, servers, and domain controllers.
+    Magic Unicorn – Shellcode generator for numerous attack vectors, including Microsoft Office macros, PowerShell, HTML applications (HTA), or certutil (using fake certificates).
+    DeathStar – Python script that uses Empire’s RESTful API to automate gaining Domain Admin rights in Active Directory environments.
+
+### GNU/Linux Utilities ###
+
+    Linux Exploit Suggester – Heuristic reporting on potentially viable exploits for a given GNU/Linux system.
+
+### macOS Utilities ###
+
+    Bella – Pure Python post-exploitation data mining and remote administration tool for macOS.
+
+### DDoS Tools ###
+
+    LOIC – Open source network stress tool for Windows.
+    JS LOIC – JavaScript in-browser version of LOIC.
+    SlowLoris – DoS tool that uses low bandwidth on the attacking side.
+    HOIC – Updated version of Low Orbit Ion Cannon, has ‘boosters’ to get around common counter measures.
+    T50 – Faster network stress tool.
+    UFONet – Abuses OSI layer 7 HTTP to create/manage ‘zombies’ and to conduct different attacks using; GET/POST, multithreading, proxies, origin spoofing methods, cache evasion techniques, etc.
+
+### Social Engineering Tools ###
+
+    Social Engineer Toolkit (SET) – Open source pentesting framework designed for social engineering featuring a number of custom attack vectors to make believable attacks quickly.
+    King Phisher – One of the Hacking Tools for Phishing campaign toolkit used for creating and managing multiple simultaneous phishing attacks with custom email and server content.
+    Evilginx – MITM attack framework used for phishing credentials and session cookies from any Web service.
+    wifiphisher – Automated phishing attacks against WiFi networks.
+    Catphish – Tool for phishing and corporate espionage written in Ruby.
+    Beelogger – Tool for generating keylooger.
+
+
+### Anonymity Tools ###
+
+    Tor – Free software and onion routed overlay network that helps you defend against traffic analysis.
+    OnionScan – One of the Hacking Tools for investigating the Dark Web by finding operational security issues introduced by Tor hidden service operators.
+    I2P – The Invisible Internet Project.
+    Nipe – Script to redirect all traffic from the machine to the Tor network.
+    What Every Browser Knows About You – Comprehensive detection page to test your own Web browser’s configuration for privacy and identity leaks.
+    VPN – A virtual private network masks your real IP address and physical location replacing it with that of the server you connect to.
+
+### Reverse Engineering Tools ###
+
+    Interactive Disassembler (IDA Pro) – Proprietary multi-processor disassembler and debugger for Windows, GNU/Linux, or macOS; also has a free version, IDA Free.
+    WDK/WinDbg – Windows Driver Kit and WinDbg.
+    OllyDbg – x86 debugger for Windows binaries that emphasizes binary code analysis.
+    Radare2 – Open source, crossplatform reverse engineering framework.
+    x64dbg – Open source x64/x32 debugger for windows.
+    Immunity Debugger – Powerful way to write exploits and analyze malware.
+    Evan’s Debugger – OllyDbg-like debugger for GNU/Linux.
+    Medusa – Open source, cross-platform interactive disassembler.
+    plasma – Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
+    peda – Python Exploit Development Assistance for GDB.
+    dnSpy – one of the Hacking Tools to reverse engineer .NET assemblies.
+    binwalk – Fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images.
+    PyREBox – Python scriptable Reverse Engineering sandbox by Cisco-Talos.
+    Voltron – Extensible debugger UI toolkit written in Python.
+    Capstone – Lightweight multi-platform, multi-architecture disassembly framework.
+    rVMI – Debugger on steroids; inspect userspace processes, kernel drivers, and preboot environments in a single tool.
+    Frida – Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+
+### Physical Access Tools ###
+
+    LAN Turtle – Covert “USB Ethernet Adapter” that provides remote access, network intelligence gathering, and MITM capabilities when installed in a local network.
+    USB Rubber Ducky – Customizable keystroke injection attack platform masquerading as a USB thumbdrive.
+    Poisontap – Siphons cookies, exposes internal (LAN-side) router and installs web backdoor on locked computers.
+    WiFi Pineapple – Wireless auditing and penetration testing platform.
+    Proxmark3 – RFID/NFC cloning, replay, and spoofing toolkit often used for analyzing and attacking proximity cards/readers, wireless keys/keyfobs, and more.
+
+### Side-channel Tools ### 
+
+    ChipWhisperer – Complete open-source toolchain for side-channel power analysis and glitching attacks.
+
+### CTF Tools ###
+
+    ctf-tools – Collection of setup scripts to install various security research tools easily and quickly deployable to new machines.
+    Pwntools – Rapid exploit development framework built for use in CTFs.
+    RsaCtfTool – Decrypt data enciphered using weak RSA keys, and recover private keys from public keys using a variety of automated attacks.
+
+### Penetration Testing Report Templates ###
+
+    Public Pentesting Reports – Curated list of public penetration test reports released by several consulting firms and academic security groups.
+    Pentesting Report Template – testandverification.com template.
+    Pentesting Report Template – hitachi-systems-security.com template.
+    Pentesting Report Template – lucideus.com template.
+    Pentesting Report Template – crest-approved.org templage.
+    Pentesting Report Template – pcisecuritystandards.org template.
+
+### Penetration Testing Books ###
+
+    The Art of Exploitation by Jon Erickson, 2008
+    Metasploit: The Penetration Tester’s Guide by David Kennedy et al., 2011
+    Penetration Testing: A Hands-On Introduction to Hacking by Georgia Weidman, 2014
+    Rtfm: Red Team Field Manual by Ben Clark, 2014
+    The Hacker Playbook by Peter Kim, 2014
+    The Basics of Hacking and Penetration Testing by Patrick Engebretson, 2013
+    Professional Penetration Testing by Thomas Wilhelm, 2013
+    Advanced Penetration Testing for Highly-Secured Environments by Lee Allen, 2012
+    Violent Python by TJ O’Connor, 2012
+    Fuzzing: Brute Force Vulnerability Discovery by Michael Sutton et al., 2007
+    Black Hat Python: Python Programming for Hackers and Pentesters by Justin Seitz, 2014
+    Penetration Testing: Procedures & Methodologies by EC-Council, 2010
+    Unauthorised Access: Physical Penetration Testing For IT Security Teams by Wil Allsopp, 2010
+    Advanced Persistent Threat Hacking: The Art and Science of Hacking Any Organization by Tyler Wrightson, 2014
+    Bug Hunter’s Diary by Tobias Klein, 2011
+    Advanced Penetration Testing by Wil Allsopp, 2017
+
+### Hackers Handbook Series ###
+
+    The Database Hacker’s Handbook, David Litchfield et al., 2005
+    The Shellcoders Handbook by Chris Anley et al., 2007
+    The Mac Hacker’s Handbook by Charlie Miller & Dino Dai Zovi, 2009
+    The Web Application Hackers Handbook by D. Stuttard, M. Pinto, 2011
+    iOS Hackers Handbook by Charlie Miller et al., 2012
+    Android Hackers Handbook by Joshua J. Drake et al., 2014
+    The Browser Hackers Handbook by Wade Alcorn et al., 2014
+    The Mobile Application Hackers Handbook by Dominic Chell et al., 2015
+    Car Hacker’s Handbook by Craig Smith, 2016
+
+### Defensive Development ###
+
+    Holistic Info-Sec for Web Developers (Fascicle 0)
+    Holistic Info-Sec for Web Developers (Fascicle 1)
+
+### Network Analysis Books ###
+
+    Nmap Network Scanning by Gordon Fyodor Lyon, 2009
+    Practical Packet Analysis by Chris Sanders, 2011
+    Wireshark Network Analysis by by Laura Chappell & Gerald Combs, 2012
+    Network Forensics: Tracking Hackers through Cyberspace by Sherri Davidoff & Jonathan Ham, 2012
+
+### Reverse Engineering Books ###
+
+    Reverse Engineering for Beginners by Dennis Yurichev
+    Hacking the Xbox by Andrew Huang, 2003
+    The IDA Pro Book by Chris Eagle, 2011
+    Practical Reverse Engineering by Bruce Dang et al., 2014
+    Gray Hat Hacking The Ethical Hacker’s Handbook by Daniel Regalado et al., 2015
+
+### Malware Analysis Books ###
+
+    Practical Malware Analysis by Michael Sikorski & Andrew Honig, 2012
+    The Art of Memory Forensics by Michael Hale Ligh et al., 2014
+    Malware Analyst’s Cookbook and DVD by Michael Hale Ligh et al., 2010
+
+### Windows Books ###
+
+    Windows Internals by Mark Russinovich et al., 2012
+    Troubleshooting with the Windows Sysinternals Tools by Mark Russinovich & Aaron Margosis, 2016
+
+### Social Engineering Books ###
+
+    The Art of Deception by Kevin D. Mitnick & William L. Simon, 2002
+    The Art of Intrusion by Kevin D. Mitnick & William L. Simon, 2005
+    Ghost in the Wires by Kevin D. Mitnick & William L. Simon, 2011
+    No Tech Hacking by Johnny Long & Jack Wiles, 2008
+    Social Engineering: The Art of Human Hacking by Christopher Hadnagy, 2010
+    Unmasking the Social Engineer: The Human Element of Security by Christopher Hadnagy, 2014
+    Social Engineering in IT Security: Tools, Tactics, and Techniques by Sharon Conheady, 2014
+
+### Lock Picking Books ###
+
+    Practical Lock Picking by Deviant Ollam, 2012
+    Keys to the Kingdom by Deviant Ollam, 2012
+    Lock Picking: Detail Overkill by Solomon
+    Eddie the Wire books
+    
+
+### Vulnerability Databases ###
+
+    Common Vulnerabilities and Exposures (CVE) – Dictionary of common names (i.e., CVE Identifiers) for publicly known security vulnerabilities.
+    National Vulnerability Database (NVD) – United States government’s National Vulnerability Database provides additional meta-data (CPE, CVSS scoring) of the standard CVE List along with a fine-grained search engine.
+    US-CERT Vulnerability Notes Database – Summaries, technical details, remediation information, and lists of vendors affected by software vulnerabilities, aggregated by the United States Computer Emergency Response Team (US-CERT).
+    Full-Disclosure – Public, vendor-neutral forum for detailed discussion of vulnerabilities, often publishes details before many other sources.
+    Bugtraq (BID) – Software security bug identification database compiled from submissions to the SecurityFocus mailing Penetration testing tools list and other sources, operated by Symantec, Inc.
+    Exploit-DB – Non-profit project hosting exploits for software vulnerabilities, provided as a public service by Offensive Security.
+    Microsoft Security Bulletins – Announcements of security issues discovered in Microsoft software, published by the Microsoft Security Response Center (MSRC).
+    Microsoft Security Advisories – Archive of security advisories impacting Microsoft software.
+    Mozilla Foundation Security Advisories – Archive of security advisories impacting Mozilla software, including the Firefox Web Browser.
+    Packet Storm – Compendium of exploits, advisories, tools, and other security-related resources aggregated from across the industry.
+    CXSecurity – Archive of published CVE and Bugtraq software vulnerabilities cross-referenced with a Google dork database for discovering the listed vulnerability.
+    SecuriTeam – Independent source of software vulnerability information.
+    Vulnerability Lab – Open forum for security advisories organized by category of exploit target.
+    Zero Day Initiative – Bug bounty program with the publicly accessible archive of published security advisories, operated by TippingPoint.
+    Vulners – Security database of software vulnerabilities.
+    Inj3ct0r (Onion service) – Exploit marketplace and vulnerability information aggregator.
+    Open Source Vulnerability Database (OSVDB) – Historical archive of security vulnerabilities in computerized equipment, no longer adding to its vulnerability database as of April, 2016.Hacking Tools
+    HPI-VDB – Aggregator of cross-referenced software vulnerabilities offering free-of-charge API access, provided by the Hasso-Plattner Institute, Potsdam.Hacking Tools
+
+### Security Courses ###
+
+    Offensive Security Training – Training from BackTrack/Kali developers.
+    SANS Security Training – Computer Security Training & Certification.
+    Open Security Training – Training material for computer security classes.
+    CTF Field Guide – Everything you need to win your next CTF competition.
+    ARIZONA CYBER WARFARE RANGE – 24×7 live fire exercises for beginners through real world operations; capability for upward progression into the real world of cyber warfare.
+    Cybrary – Free courses in ethical hacking and advanced penetration testing. Advanced penetration testing courses are based on the book ‘Penetration Testing for Highly-Secured Environments’.
+    Computer Security Student – Many free tutorials, great for beginners, $10/mo membership unlocks all content.
+    European Union Agency for Network and Information Security – ENISA Cyber Security Training material.
+    
+    
+### Information Security Magazines ###
+
+    2600: The Hacker Quarterly – American publication about technology and computer “underground.”
+    Phrack Magazine – By far the longest running hacker zine.
+
+### Awesome Lists ###
+
+    Kali Linux Tools – List of Hacking tools present in Kali Linux.
+    SecTools – Top 125 Network Security Hacking Tools.
+    Pentest Cheat Sheets – Awesome Pentest Cheat Sheets.
+    C/C++ Programming – One of the main language for open source security tools.
+    .NET Programming – Software framework for Microsoft Windows platform development.
+    Shell Scripting – Command line frameworks, toolkits, guides and gizmos.
+    Ruby Programming by @dreikanter – The de-facto language for writing exploits.
+    Ruby Programming by @markets – The de-facto language for writing exploits.
+    Ruby Programming by @Sdogruyol – The de-facto language for writing exploits.
+    JavaScript Programming – In-browser development and scripting.
+    Node.js Programming by @sindresorhus – Curated list of delightful Node.js packages and resources.
+    Python tools for penetration testers – Lots of pentesting tools are written in Python.
+    Python Programming by @svaksha – General Python programming.
+    Python Programming by @vinta – General Python programming.
+    Android Security – Collection of Android security-related resources.
+    Awesome Awesomness – The List of the Lists.
+    AppSec – Resources for learning about application security.
+    CTFs – Capture The Flag frameworks, libraries, etc.
+    InfoSec § Hacking challenges – Comprehensive directory of CTFs, wargames, hacking challenge websites,Penetration testing tools list practice lab exercises, and more.
+    Hacking – Tutorials, tools, and resources.
+    Honeypots – Honeypots, tools, components, and more.
+    Infosec – Information security resources for pentesting, forensics, and more.
+    Forensics – Free (mostly open source) forensic analysis tools and resources.
+    Malware Analysis – Tools and resources for analysts.
+    PCAP Tools – Tools for processing network traffic.
+    Security – Software, libraries, documents, and other resources.
+    Awesome Lockpicking – Awesome guides, tools, and other resources about the security and compromise of locks, safes, and keys.
+    SecLists – Collection of multiple types of lists used during security assessments.
+    Security Talks – Curated list of security conferences.
+    OSINT – Awesome OSINT list containing great resources.
+    YARA – YARA rules, tools, and people.
+
+### Top 10 IPhone Hacking Tools ###
+
+iSpy - https://lnkd.in/dNnZThrg
+iRET - https://lnkd.in/de8WXp7d
+iWep pro - https://lnkd.in/dPwR7vqm
+Frida - https://frida.re/docs/ios/
+Firecat - https://lnkd.in/dREvBaAq
+Burp - https://lnkd.in/dYvzpgF3
+Myriam iOS - https://lnkd.in/dEBQ7ahH
+Spybubble - https://lnkd.in/dsU8ykpd
+Fing - https://lnkd.in/dHeXkDuf
+Wps Wpa Tester - https://lnkd.in/dBJzjpbi
+
+
+### List of 168 Red-Team GitHub Repos ###
+
+1. https://github.com/d0nkeys/redteam
+2. https://github.com/r0eXpeR/redteam_vul
+3. https://github.com/nccgroup/demiguise
+4. https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques
+5. https://github.com/Threekiii/Awesome-Redteam
+6. https://github.com/bigb0sss/RedTeam-OffensiveSecurity
+7. https://github.com/fengjixuchui/RedTeamer
+8. https://github.com/lengjibo/RedTeamTools
+9. https://github.com/jeansgit/RedTeam
+10. https://github.com/Mr-xn/RedTeam_BlueTeam_HW
+11. https://github.com/mabangde/pentesttools
+12. https://github.com/we1h0/redteam-tips
+13. https://github.com/Mel0day/RedTeam-BCS
+14. https://github.com/Mr-Un1k0d3r/RedTeamPowershellScripts
+15. https://github.com/QAX-A-Team/BrowserGhost
+16. https://github.com/kurogai/100-redteam-projects
+17. https://github.com/biggerduck/RedTeamNotes
+18. https://github.com/magoo/redteam-plan
+19. https://github.com/foobarto/redteam-notebook
+20. https://github.com/blackarrowsec/redteam-research
+21. https://github.com/Mr-Un1k0d3r/RedTeamCSharpScripts
+22. https://github.com/RistBS/Awesome-RedTeam-Cheatsheet
+23. https://github.com/XTeam-Wing/RedTeaming2020
+24. https://github.com/Mr-Un1k0d3r/RedTeamCCode
+25. https://github.com/signorrayan/RedTeam_toolkit
+26. https://github.com/J0hnbX/RedTeam-Resources
+27. https://github.com/praetorian-inc/PortBender
+28. https://github.com/FunnyWolf/Viper
+29. https://github.com/r0eXpeR/redteam-tools
+30. https://github.com/RootUp/RedTeam
+31. https://github.com/obscuritylabs/HastySeries
+32. https://github.com/sectool/redteam-hardware-toolkit
+33. https://github.com/b1n4ry4rms/RedTeam-Pentest-Cheatsheets
+34. https://github.com/zer0yu/Awesome-CobaltStrike
+35. https://github.com/zhutougg/RedteamStandard
+36. https://github.com/0xJs/RedTeaming_CheatSheet
+37. https://github.com/ihebski/A-Red-Teamer-diaries
+38. https://github.com/taielab/Taie-RedTeam-OS
+39. https://github.com/r0eXpeR/RedTeamAttack
+40. https://github.com/Lucifer1993/PoCHub
+41. https://github.com/praetorian-inc/trident
+42. https://github.com/d30sa1/RootKits-List-Download
+43. https://github.com/Mr-Un1k0d3r/RedTeamScripts
+44. https://github.com/phra/PEzor
+45. https://github.com/rosonsec/RedTeam
+46. https://github.com/Inf0secRabbit/BadAssMacros
+47. https://github.com/slimdaddy/RedTeam
+48. https://github.com/mvelazc0/defcon27_csharp_workshop
+49. https://github.com/wsummerhill/CobaltStrike_RedTeam_CheatSheet
+50. https://github.com/DavidProbinsky/RedTeam-Physical-Tools
+51. https://github.com/WazeHell/sam-the-admin
+52. https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
+53. https://github.com/zer0yu/RedTeam_CheetSheets
+54. https://github.com/PhilKeeble/AWS-RedTeam-ADLab
+55. https://github.com/sysdream/chashell
+56. https://github.com/angels520/redteamT00ls
+57. https://github.com/redteaminfra/redteam-infra
+58. https://github.com/pwn1sher/frostbyte
+59. https://github.com/CC11001100/idea-project-fish-exploit
+60. https://github.com/LOLBAS-Project/LOLBAS
+61. https://github.com/esp0xdeadbeef/cheat.sheets
+62. https://github.com/SecurityRiskAdvisors/RedTeamSIEM
+63. https://github.com/anthonysecurity/redteam_toolkit
+64. https://github.com/bneg/RedTeam-Automation
+65. https://github.com/nshalabi/ATTACK-Tools
+66. https://github.com/sysdream/hershell
+67. https://github.com/lotapp/ADSec-and-RedTeam
+68. https://github.com/sh4d3s/RedTeamCheatsheet
+69. https://github.com/QAX-A-Team/LuWu
+70. https://github.com/chrismaddalena/RedTeamMemory
+71. https://github.com/qsecure-labs/overlord
+72. https://github.com/emmaunel/DiscordGo
+73. https://github.com/CnHack3r/Goby_PoC_RedTeam
+74. https://github.com/knight0x07/ImpulsiveDLLHijack
+75. https://github.com/phink-team/Cobaltstrike-MS17-010
+76. https://github.com/redteamwiki/redteamwiki
+77. https://github.com/lengjibo/FourEye
+78. https://github.com/eksperience/KnockOutlook
+79. https://github.com/NyDubh3/CuiRi
+80. https://github.com/cfalta/MicrosoftWontFixList
+81. https://github.com/wgpsec/fofa_viewer
+82. https://github.com/brimstone/go-shellcode
+83. https://github.com/mgeeky/cobalt-arsenal
+84. https://github.com/TheSecureTux/redteam-k8spwn
+85. https://github.com/Dviros/redboard
+86. https://github.com/0x09AL/DNS-Persist
+87. https://github.com/piiperxyz/AniYa
+88. https://github.com/micahjmartin/RedTeamDeploy
+89. https://github.com/api0cradle/UltimateAppLockerByPassList
+90. https://github.com/api0cradle/LOLBAS
+91. https://github.com/veo/vshell
+92. https://github.com/samratashok/nishang
+93. https://github.com/gloxec/CrossC2
+94. https://github.com/jwx0539/hackingLibrary
+95. https://github.com/EnginDemirbilek/NorthStarC2
+96. https://github.com/DamonMohammadbagher/Some_Pentesters_SecurityResearchers_RedTeamers
+97. https://github.com/laramies/theHarvester
+98. https://github.com/PeiQi0/PeiQi-WIKI-Book
+99. https://github.com/zer0yu/CyberSecurityRSS
+100. https://github.com/kgretzky/pwndrop
+101. https://github.com/redcanaryco/atomic-red-team
+102. https://github.com/infosecn1nja/Red-Teaming-Toolkit
+103. https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki
+104. https://github.com/shr3ddersec/Shr3dKit
+105. https://github.com/BankSecurity/Red_Team
+106. https://github.com/mandiant/red_team_tool_countermeasures
+107. https://github.com/netbiosX/Checklists
+108. https://github.com/its-a-feature/Mythic
+109. https://github.com/outflanknl/RedELK
+110. https://github.com/cobbr/Covenant
+111. https://github.com/LasCC/Hack-Tools
+112. https://github.com/khast3x/Redcloud
+113. https://github.com/threatexpress/red-team-scripts
+114. https://github.com/hudunkey/Red-Team-links
+115. https://github.com/trickster0/OffensiveRust
+116. https://github.com/securethelogs/RedRabbit
+117. https://github.com/backlogs/redmine_backlogs
+118. https://github.com/vysecurity/RedTips
+119. https://github.com/rootsecdev/Azure-Red-Team
+120. https://github.com/DataDog/stratus-red-team
+121. https://github.com/facebookarchive/WEASEL
+122. https://github.com/WebBreacher/offensiveinterview
+123. https://github.com/cisagov/RedEye
+124. https://github.com/Coalfire-Research/Red-Baron
+125. https://github.com/propervillain/moistpetal
+126. https://github.com/Al1ex/Red-Team
+127. https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations
+128. https://github.com/ahmedkhlief/Ninja
+129. https://github.com/nccgroup/redsnarf
+130. https://github.com/wikiZ/RedGuard
+131. https://github.com/marcosValle/awesome-windows-red-team
+132. https://github.com/KCarretto/Arsenal
+133. https://github.com/bitsadmin/nopowershell
+134. https://github.com/lightspin-tech/red-kube
+135. https://github.com/mantvydasb/Red-Team-Infrastructure-Automation
+136. https://github.com/Mr-Un1k0d3r/MaliciousClickOnceGenerator
+137. https://github.com/aadityapurani/NodeJS-Red-Team-Cheat-Sheet
+138. https://github.com/Marshall-Hallenbeck/red_team_attack_lab
+139. https://github.com/RoseSecurity/Red-Teaming-TTPs
+140. https://github.com/hassan0x/ReconHunter
+141. https://github.com/tobor88/PowerShell-Red-Team
+142. https://github.com/yadox666/The-Hackers-Hardware-Toolkit
+143. https://github.com/Agahlot/RTFM
+144. https://github.com/Trusted-AI/adversarial-robustness-toolbox
+145. https://github.com/michaelweber/Macrome
+146. https://github.com/nettitude/PoshC2
+147. https://github.com/morph3/Windows-Red-Team-Cheat-Sheet
+148. https://github.com/mgeeky/RedWarden
+149. https://github.com/chr0n1k/AH2021Workshop
+150. https://github.com/h3ll0clar1c3/CRTO
+151. https://github.com/Bashfuscator/Bashfuscator
+152. https://github.com/0xMrNiko/Awesome-Red-Teaming
+153. https://github.com/ihebski/DefaultCreds-cheat-sheet
+154. https://github.com/redcanaryco/invoke-atomicredteam
+155. https://github.com/Azure/Stormspotter
+156. https://github.com/dutchcoders/ares
+157. https://github.com/CredDefense/CredDefense
+158. https://github.com/d4rk007/RedGhost
+159. https://github.com/ihamburglar/Redboto
+160. https://github.com/edoardottt/awesome-hacker-search-engines
+161. https://github.com/ztgrace/pwnboard
+162. https://github.com/QAX-A-Team/openssh-7.6p1-patch
+163. https://github.com/CyberSecurityUP/Red-Team-Management
+164. https://github.com/tonghuaroot/Awesome-macOS-Red-Teaming
+165. https://github.com/ring0lab/catphish
+166. https://github.com/0x727/AggressorScripts_0x727
+167. https://github.com/arkhitech/redmine_mentions
+168. https://github.com/ryanmrestivo/red-team
+
+  
+### BLUE TEAM TOOLS###
+
+NETWORK:
+
+   SELKS ==> https://lnkd.in/ehAHv7y4
+   CrowdSec ==> https://www.crowdsec.net/
+   Suricata ==> https://suricata.io/
+   OSSEC ==> https://lnkd.in/gnDBFAuu
+   PiHole ==> https://pi-hole.net/
+   AdGuardHome ==> https://lnkd.in/grqdJD2
+   NextDNS ==> https://nextdns.io/fr
+   ·pfSense: https://www.pfsense.org
+   ·Arkime: https://arkime.com
+
+SIEM/EDR/XDR/MDR:
+
+    Wazuh ==> https://wazuh.com/
+    GrayLog ==> https://www.graylog.org/ | https://lnkd.in/geMhgi9p
+    IBM QRadar ==> https://www.ibm.com/qradar
+    Splunk Security Essential ==> https://lnkd.in/gCgPCgUk
+    OpenEDR ==> https://www.openedr.com/
+    TehTris EDR ==> https://lnkd.in/guY687GW
+    SecurityOnion-Solutions ==> https://lnkd.in/gqrj7kGd
+    OSSIM: https://lnkd.in/dXegU3-5
+    LogRhythm ==> https://logrhythm.com
+    Cortex XDR ==> https://lnkd.in/devusd8T
+    Cynet 360 ==> https://lnkd.in/dZTXUwBE
+    FortiEDR ==> https://lnkd.in/daTMkVxb
+
+AUDIT/AD:
+
+    PingCastle ==> https://lnkd.in/gwujBCpm
+    Purple Knight ==> https://lnkd.in/eeqznxX8
+    PowerHuntShares ==> https://lnkd.in/ehDisjyQ
+
+DFIR/FORENSIC:
+
+    Snort ==> https://www.snort.org/
+    NetworkMiner ==> https://lnkd.in/e5qJb2bS
+    Zeek ==> https://zeek.org/
+    Brim ==> https://www.brimdata.io/
+    Wireshark ==> https://www.wireshark.org/
+    Sysinternals ==> https://lnkd.in/gCW23y_s
+    OSQuery ==> https://osquery.io/
+    PeStudio ==> https://www.winitor.com/
+    Volatility ==> https://lnkd.in/g2q-wYRR
+
+CTI/THREAT INTELLIGENCE/OSINT:
+
+    Posh – VirusTotal ==> https://lnkd.in/gdwrS-nB
+    Teleport ==> https://goteleport.com/
+    VirusTotal ==> https://lnkd.in/e9543GK2
+    OpenCTI ==> https://lnkd.in/e6XPYbGq
+    Manuka ==> https://lnkd.in/gYCrDUqK
+    PhishTool ==> https://www.phishtool.com/
+    MISP ==> https://lnkd.in/eD2wpfRH
+    Shodan ==> https://www.shodan.io/
+    DNSDumpster ==> https://dnsdumpster.com/
+    Awesome Osint ==> https://lnkd.in/e3WEXf2D
+    Yara ==> https://lnkd.in/eQAR6ivH
+    OpenCVE ==> https://lnkd.in/eG94zWWW
+    Fast Incident Response ==> https://lnkd.in/gpZYCFS6
+    criminalip ==> https://www.criminalip.io/
+
+OS ANALYSIS
+
+    Helk ==> https://lnkd.in/di4rQuNb
+    Volatility ==> https://lnkd.in/dBr4yVYa
+    RegRipper ==> https://lnkd.in/dq2hTNQw
+    OSSEC ==> https://www.ossec.net
+    osquery ==> https://osquery.io
+
+INCIDENT MANAGMENT
+
+    TheHive ==> https://lnkd.in/dkR-d4JB
+    GRR Rapid Response ==> https://lnkd.in/d42-6faP
+
+HONEYPOTS
+
+    Kippo ==> https://lnkd.in/d2ypa3j4
+    Cowrie ==> https://lnkd.in/dAR68JQt
+    Dockpot ==> https://lnkd.in/dgn7MpQg
+    HonSSH ==> https://lnkd.in/dMKptyHz
+
+THREAT INTELLIGENCE
+
+    Misp ==> https://lnkd.in/dkcbKsTN 
+    MSTICPy ==> https://lnkd.in/dBjgWVqY
