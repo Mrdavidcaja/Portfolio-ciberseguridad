@@ -1,0 +1,32 @@
+
+# Lab 04 — Post-Explotación 
+
+## Objetivo
+Elevar privilegios y extraer información sensible.
+
+## Herramientas usadas
+- linpeas
+- sudo -l
+- find / -perm -400
+- cat /etc/passwd
+
+## Pasos realizados
+1. Enumeración inicial:
+   - `id`
+   - `hostname`
+   - `uname -a`
+
+2. Escaneo de privilegios:
+   - `sudo -l`
+
+3. Búsqueda de ficheros SUID:
+   - `find / -perm -400 -type f 2>/dev/null`
+
+4. Lectura de archivos sensibles:
+   - `cat /etc/passwd`
+
+## Resultado
+Se identificó un binario SUID vulnerable que permitió escalada a root.
+
+## Conclusión
+Se consiguió escalada de privilegios y acceso a información crítica del sistema.
