@@ -1,0 +1,30 @@
+# Lab 05 – Respuesta inicial a incidentes (SOC Level 1)
+
+## 🎯 Objetivo
+Aplicar respuesta inicial a un incidente detectado.
+
+## 🧠 Descripción
+Documentación y escalado del incidente.
+
+## 🧪 Ejemplo práctico completo
+
+### Resumen del incidente
+
+Incident Type: Brute Force Attack
+Severity: Medium
+Affected User: admin
+Source IP: 192.168.1.45
+Status: Escalated to SOC Level 2
+
+
+### Acciones SOC L1
+- Confirmación del incidente
+- Recopilación de evidencias
+- Documentación del caso
+- Escalado a L2
+
+### Resultado
+Incidente correctamente gestionado por SOC Level 1.
+
+## 🧪 Flujo SOC
+Detección → Investigación → Respuesta inicial → Escalado
