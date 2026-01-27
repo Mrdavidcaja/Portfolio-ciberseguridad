@@ -15,9 +15,8 @@ Simular el funcionamiento de un SOC (Security Operations Center) para demostrar 
 ## 3. Herramientas (básicas)
 - Splunk (para logs y dashboards)
 - Wireshark (análisis de red)
-- Sysmon (logs Windows)
-- Zeek (análisis de tráfico)
-- ELK (opcional)
+- Nmap (escaneo de red básico)
+- Herramientas Windows/Linux básicas (event viewer, logs, cmd, terminal)
 
 ## 4. Caso práctico (ejemplo)
 ### Alerta: múltiples intentos de login fallidos
