@@ -144,6 +144,8 @@ https://www.hackplayers.com/2024/03/dns-tunnel-keylogger-su-nombre-lo-dice.html
 - URLScan.io:  https://urlscan.io/
 - Centro de reputación de Talos:  https://talosintelligence.com/reputation
 - También puede utilizar CyberChef para extraer URL con la receta Extraer URL: https://gchq.github.io/CyberChef/
+- Análisis Malware híbrido:  https://www.hybrid-analysis.com/
+- Una herramienta que ayudará con el análisis automatizado de phishing es:  https://www.phishtool.com/
 
 ### Penetration Testing Distributions ###
 
