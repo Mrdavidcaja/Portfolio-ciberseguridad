@@ -136,6 +136,15 @@ https://achirou.com/osint-8-telefono-comunicacion-y-colaboracion/
 https://www.hackplayers.com/2024/02/ghosttask-crea-tareas-programadas-sigilosamente.html
 https://www.hackplayers.com/2024/03/dns-tunnel-keylogger-su-nombre-lo-dice.html
 
+##  Herramientas phishing  ##
+
+- Encabezado del mensaje :  https://toolbox.googleapps.com/apps/messageheader/analyzeheader
+- Analizador de encabezados de mensajes :  https://mha.azurewebsites.net/
+- IPinfo.io:  https://ipinfo.io/
+- URLScan.io:  https://urlscan.io/
+- Centro de reputación de Talos:  https://talosintelligence.com/reputation
+
+
 ### Penetration Testing Distributions ###
 
 - Kali Linux: distribution designed for digital forensics and penetration testing Hacking Tools
